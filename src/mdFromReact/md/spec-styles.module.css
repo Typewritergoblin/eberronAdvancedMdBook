@@ -1,0 +1,127 @@
+/* Styles for information dense markdown specs */
+
+.specStyles p {
+    max-width: 90%;
+    overflow-wrap: break-word;
+    padding: .2em;
+}
+
+.specStyles h3 {
+    font-size: 4ex;
+}
+
+.specStyles h4 {
+    font-size: 3ex;
+}
+
+.specStyles h5 {
+    font-size: 2.5ex;
+}
+
+.specStyles h6 {
+    font-size: 2ex;
+}
+
+.specStyles table {
+    table-layout: fixed;
+    border-collapse:collapse;
+    width:fit-content;
+    width: 90%;
+    border: 1px solid #dddddd;
+    margin-left: .5em;
+    margin-top: .5em;
+    margin-bottom: .5em; 
+    }
+
+.specStyles td, th {
+        border: 1px solid #dddddd;
+        padding: .5em;
+        word-wrap: break-word
+    }
+
+.specStyles ul {
+    list-style: disc;
+    list-style-position: outside;
+    margin-left: 2em;
+    padding-top: .15em;
+    padding-bottom: .15em; 
+    max-width: 75%;   
+}
+
+.specStyles ul li ul {
+    list-style: circle;
+    list-style-position: outside;
+    margin-left: 2em;
+}
+
+.specStyles ul li ul li ul {
+    list-style: square;
+    list-style-position: outside;
+    margin-left: 2em;
+}
+
+.specStyles ol {
+    list-style: decimal;
+    list-style-position: outside;
+    margin-left: 2em;
+    padding-top: .15em;
+    padding-bottom: .15em;    
+}
+
+.specStyles ol li ol {
+    list-style: lower-alpha;
+    list-style-position: outside;
+    margin-left: 2em;
+}
+
+.specStyles ol li ul {
+    list-style: disc;
+    list-style-position: outside;
+    margin-left: 2em;
+}
+
+.specStyles ol li ul li ul {
+    list-style: circle;
+    list-style-position: outside;
+    margin-left: 2em;
+}
+
+.specStyles ol li ol li ul {
+    list-style: disc;
+    list-style-position: outside;
+    margin-left: 2em;
+}
+
+.specStyles h3 {
+    padding-top: .25em;
+}
+
+.specStyles h4 {
+    padding-top: .25em;
+}
+
+.specStyles h5 {
+    padding-top: .25em;
+}
+
+.specStyles h6 {
+    padding-top: .25em;
+}
+
+.specStyles img {
+    width: 100%;
+    min-width: 800px;
+}
+
+.specStyles pre {
+    width: 90%;
+    min-width: 300px;
+    /*max-width: 800px;*/
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.specStyles hr {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}

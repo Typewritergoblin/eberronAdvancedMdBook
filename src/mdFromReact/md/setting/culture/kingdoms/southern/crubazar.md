@@ -1,0 +1,5 @@
+# Kingdom of Crubazar
+
+Crubazar is northwest of the Eldorado kingdoms, and shares many of their features, including many mountains and small concentrations of arable land. Much of Crubazar is desert, but it has less tropical land then its southern cousin. 
+
+Crubazar is a theocracy of Bane, a predominantly human kingdom that gave itself over to the Lord of the Void during the waning of the Fifth Age to retake the lands of their ancestors from the bloodied Dynastan Empire and break the chains of bondage forced on their kin. Dark bloodthirsty warriors of Bane called the Jackals of Crubazar fought a bloody guerrilla war in the land, until the empire fell back. Consolidating its hold on the land, Bane’s priests took the abandoned Dynastan slaves and forced them to work building a new kingdom for the dark god. The faithful elite live a life of luxury amongst the rich gardens in the major cities, while the majority toil in dusty farmlands ploughed into dying earth. However, the fury of the unholy berserkers of Crubazar has not abated, and this land is firmly in hand by its human masters.

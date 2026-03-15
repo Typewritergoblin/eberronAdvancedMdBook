@@ -1,0 +1,5 @@
+# Shaldar 
+
+A barren, rocky valley that has extensive stretches of brushland with small patches of rich farmland, Shaldar contains a high number of fey and arcane creatures due to permanent twisting of the landscape from the Fourth Age. The hills and mountains of Shaldar are rich in mineral resources, but both farming and mining are dangerous endeavors, as the land is far from tamed.
+
+The human population of Shaldar lives within walled cities, as very little of the kingdom is considered safe. The only exception to this is a few stretches between the twin capital cities that house the royal bloodlines, two distinct houses springing from a common ancestor that alternate or split the rule of Shaldar. The population itself thrives on mining colony expeditions or trade through Cobar, a valuable trade city along the Golden Road that Kannis and Shaldar have been fighting over for a few decades.

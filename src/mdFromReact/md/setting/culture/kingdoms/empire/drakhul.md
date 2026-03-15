@@ -1,0 +1,5 @@
+# Drakhul Provincia
+
+The Drakhul Provincia lays to the south east of the Imperium, sprawling over miles of poisonous marshland, and some of the least habitable land in the jungle, with numerous lizardmen and yuanti tribes that have yet to be subjugated in the provincia, and an abundance of lethal floral and fauna.
+
+The Drakhul Provincia is a hotspot of Yuanti activity, and so the cities in this area are in a near constant state of war and duress. The Dynastan in this area are trained to be particularly ruthless by the local academies, and you see very few casual visitors to the land. The vast majority are Dynastan, and the high density population of slaves and hired labor being used to construct massive walls and highways throughout the province. A high percentage of military resources in the empire are used in this region.

@@ -1,0 +1,8 @@
+# The Emerald Sea
+
+This warm, kelp-filled sea is surrounded by three sides by land, and the salty tropical water rings the northwest edges of the Dynastan empire, specifically the Reptus Provincia, and providing the western border to the southern kingdoms as well, until it mingles with the currents rushing from the north. A cluster of volcanic islands rise out of the middle of the sea, called the Bloodreach Isles, which are active, forming sharp, dangerous claws of sea-cooled volcanic rock that line the coasts and inlets around the isles, a danger for sea-farers.
+
+The major sea route by which the Dynastan ship goods up the Coral coast, this waterway is controlled by the Empire, and heavily populated with rakasha, sauren, and Dynastan. The major port city Akur’Rakt received most of the trade, but there are several smaller port cities that accept trade as well. Piracy itself it not a huge threat in this area, as Dynastan warships are deadly floating cities that no pirate with an eye toward profit would tangle with. However, the kelp forests of the Emerald Sea and the razor sharp crags of the Bloodreach Isles are full of yuanti marauders without loot on their minds, who are just happy to bleed the Empire and its allies of money and warriors. A major Tekulti city is said to exist beneath the waves, but no matter how many iron-bottomed rock breaker barges and hard eyed centurions the Dynastan put into the ocean, they have yet to find it.
+
+The merchants who brave the Tekulti threat find a rich trading partner deep within the Dynastan homeland, unloading their northern goods and
+foods, and returning with sugarcane, exotic fruits, rubber and lumber.
