@@ -1,3 +1,0 @@
-# Primals of Icara
-
-Placeholder

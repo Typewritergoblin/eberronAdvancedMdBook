@@ -152,4 +152,3 @@ As a Shifter, you have these special traits:
 | Swiftstride   | Feline (any)   | Walking speed increases by 10. If a creature ends it's turn within 5', you can spend your reaction to move 10' without provoking attacks of opportunity.   |
 | Wildhunt   | Wolf, fox, rat, bear   | Advantage on Wisdom checks, and no creature withing 30' of you can have advantage on an attack against you.   |
 
-# Icara Races

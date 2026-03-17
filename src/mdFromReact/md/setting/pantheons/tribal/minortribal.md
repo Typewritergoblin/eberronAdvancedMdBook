@@ -1,3 +1,0 @@
-# Minor Tribal Gods
-
-## Zilazz

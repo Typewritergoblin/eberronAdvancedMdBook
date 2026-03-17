@@ -1,5 +1,0 @@
-Bugbear -
--
-Hobgoblins -
--
-Goblins

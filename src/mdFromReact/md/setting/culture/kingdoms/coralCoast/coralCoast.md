@@ -1,3 +1,0 @@
-# Coral Coast Kingdom
-
-Placeholder

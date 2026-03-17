@@ -1,5 +1,5 @@
 <div id="top"></div>
 
-# Introduction Page
+# Eberron Advanced Introduction Page
 
-The introduction to Icara
+A modified, homebrewed version of the Eberron setting to account for additions and removal to the ruleset.
