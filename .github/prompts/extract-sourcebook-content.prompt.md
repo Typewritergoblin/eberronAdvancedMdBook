@@ -9,7 +9,7 @@ description: Parse sourcebook markdown files and extract species, classes/subcla
 - You may **only** read files under `sourcebooks/`
 - You may **only** write files under `sourcebooks/Extracted/`
 - Do **not** read, write, or modify anything in `src/`, `.github/`, or any other directory
-- Do **not** run any terminal commands
+- Do **not** run any terminal commands — **this means no PowerShell, no `run_in_terminal`, no shell commands of any kind**. Use only file tools: `grep_search` to find line numbers, `read_file` to read content, `create_file` / `replace_string_in_file` to write output. Terminal commands will hang and block progress.
 - Do **not** ask the user for confirmation on individual entries — work fully autonomously to completion
 
 Your job is to read through the sourcebook files listed below and extract content into clean, organized markdown files. Work through each source file, extract the relevant entries, and write them to the output files.
