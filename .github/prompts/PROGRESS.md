@@ -19,10 +19,10 @@ When resuming in a new chat session: read PLAN.md first, then this file. Note th
 | A4 | Clean PHB feats | ✅ | — | Complete. 1091 lines. No HTML tables. Script: tools/clean_phb24_feats.py |
 | A5 | Clean Forge chapter-1 (Artificer) | ✅ | — | Complete. 884 lines. HTML Core Traits table converted. Script: tools/clean_forge_chapter1_artificer.py |
 | A6 | Clean Forge chapter-2 (char options) | ✅ | — | Complete. 1038 lines. 17 backgrounds, 5 species, 14 Dragonmark feats, 14 General feats, 1 Epic Boon. Script: tools/clean_forge_chapter2_character_options.py |
-| A7 | Clean Frontiers24CharacterOptions | ⬜ | — | |
+| A7 | Clean Frontiers24CharacterOptions | ✅ | — | Complete. 971 lines. PDF export source. 6 subclasses, 5 backgrounds, 7 species, feats, spells. Script: tools/clean_frontiers_character_options.py |
 | A8 | Clean Frontiers_Eberron_24 | ⬜ | — | Check if needs split |
-| A9 | Clean FR chapter-1 (char options) | ⬜ | — | |
-| A10 | Clean Exploring_Eberron24 | ⬜ | — | Check if needs split |
+| A9 | Clean FR chapter-1 (char options) | ✅ | — | Complete. 1422 lines. 8 subclasses, species lore, backgrounds, feats. Script: tools/clean_fr_chapter1_character_options.py |
+| A10 | Clean Exploring_Eberron24 | ✅ | — | Complete. 925 lines. Chapter 6 only (character options). 5 subclasses, 3 backgrounds, 9 species, 12 species feats (7 Origin, 5 General), 4 spells. Script: tools/clean_exploring_eberron_chapter6.py |
 
 ### Group B — Supplemental
 
@@ -51,22 +51,22 @@ When resuming in a new chat session: read PLAN.md first, then this file. Note th
 
 | # | Task | Status | Last stopped at | Notes |
 |---|---|---|---|---|
-| 2.1 | Extract species → species.md | ⬜ | — | Depends on A1, A6, A7, A9 |
-| 2.2 | Extract feats → feats.md | ⬜ | — | Depends on A4, A6, A7, A9 |
-| 2.3 | Extract Artificer class | ⬜ | — | Depends on A5, A6 |
-| 2.4 | Extract Barbarian class | ⬜ | — | Depends on A2 |
-| 2.5 | Extract Bard class | ⬜ | — | Depends on A2 |
-| 2.6 | Extract Cleric class | ⬜ | — | Depends on A2 |
-| 2.7 | Extract Druid class | ⬜ | — | Depends on A2 |
-| 2.8 | Extract Fighter class | ⬜ | — | Depends on A2; may need 2 prompts |
-| 2.9 | Extract Monk class | ⬜ | — | Depends on A2 |
-| 2.10 | Extract Paladin class | ⬜ | — | Depends on A3; may need 2 prompts |
-| 2.11 | Extract Ranger class | ⬜ | — | Depends on A3 |
-| 2.12 | Extract Rogue class | ⬜ | — | Depends on A3 |
-| 2.13 | Extract Sorcerer class | ⬜ | — | Depends on A3 |
-| 2.14 | Extract Warlock class | ⬜ | — | Depends on A3 |
-| 2.15 | Extract Wizard class | ⬜ | — | Depends on A3; may need 2 prompts |
-| 2.16 | Extract spells → spells.md | ⬜ | — | Depends on B1, B2, B4 |
+| 2.1 | Extract species → species.md | ✅ | — | Complete. 999 lines. 10 PHB species, 5 Forge species, 7 Frontiers species (incl. Tiefling variant + Warforged variant), 9 Exploring Eberron species (incl. Aasimar variants). Also sourced A10. |
+| 2.2 | Extract feats → feats.md | ✅ | — | Complete. 2868 lines. 26 Origin, 89 General, 11 Fighting Style, 26 Epic Boon, 13 Dragonmark feats (165 total). Script: tools/extract_feats.py |
+| 2.3 | Extract Artificer class | ✅ | — | Complete. 1104 lines. Base class + 7 subclasses (Alchemist, Armorer, Artillerist, Battle Smith, Cartographer from Forge ch1; Forge Adept, Maverick from Exploring Eberron) + Variant Capstones (all 7) + Homunculus Servant spell. Script: tools/extract_artificer.py |
+| 2.4 | Extract Barbarian class | ✅ | — | Complete. 368 lines. Base class + 4 PHB subclasses (Berserker, Wild Heart, World Tree, Zealot) + Path of the Demonshard (Frontiers). Script: tools/extract_barbarian.py |
+| 2.5 | Extract Bard class | ✅ | — | Complete. 589 lines. Base class + 7 subclasses: Dance, Glamour, Lore, Valor (PHB); College of Wands (Frontiers); College of the Moon (FR); College of the Dirge Singer (Exploring Eberron). Script: tools/extract_bard.py |
+| 2.6 | Extract Cleric class | ✅ | — | Complete. 642 lines. Base class + 7 subclasses: Life, Light, Trickery, War (PHB); Commerce Domain (Frontiers); Knowledge Domain (FR); Mind Domain (Exploring Eberron). Script: tools/extract_cleric.py |
+| 2.7 | Extract Druid class | ✅ | — | Complete. 698 lines. Base class + 5 subclasses: Land, Moon, Sea, Stars (PHB); Circle of the Forged (Exploring Eberron). Script: tools/extract_druid.py |
+| 2.8 | Extract Fighter class | ✅ | — | Complete. 496 lines. Base class + 5 subclasses: Battle Master, Champion, Eldritch Knight, Psi Warrior (PHB); Banneret (FR). Script: tools/extract_fighter.py |
+| 2.9 | Extract Monk class | ✅ | — | Complete. 418 lines. Base class + 4 PHB subclasses (Warrior of Mercy, Warrior of Shadow, Warrior of the Elements, Warrior of the Open Hand) + Warrior of the Living Weapon (Exploring Eberron). Script: tools/extract_monk.py |
+| 2.10 | Extract Paladin class | ✅ | — | Complete. 548 lines. Base class + 4 PHB subclasses (Oath of Devotion, Oath of Glory, Oath of the Ancients, Oath of Vengeance) + Oath of the Noble Genies (FR). Script: tools/extract_paladin.py |
+| 2.11 | Extract Ranger class | ✅ | — | Complete. 671 lines. Base class + 4 PHB subclasses (Beast Master, Fey Wanderer, Gloom Stalker, Hunter) + Winter Walker (FR) + Bloodhound (Frontiers). Script: tools/extract_ranger.py |
+| 2.12 | Extract Rogue class | ✅ | — | Complete. 441 lines. Base class + 4 PHB subclasses (Arcane Trickster, Assassin, Soulknife, Thief) + Scion of the Three (FR). Script: tools/extract_rogue.py |
+| 2.13 | Extract Sorcerer class | ✅ | — | Complete. 743 lines. Base class + 4 PHB subclasses (Aberrant, Clockwork, Draconic, Wild Magic) + Spellfire Sorcery (FR) + Nemesis Sorcery (Frontiers). Script: tools/extract_sorcerer.py |
+| 2.14 | Extract Warlock class | ✅ | — | Complete. 802 lines. Base class + 4 PHB subclasses (Archfey, Celestial, Fiend, Great Old One) + Stone Sovereign Patron (Frontiers). Script: tools/extract_warlock.py |
+| 2.15 | Extract Wizard class | ✅ | — | Complete. 636 lines. Base class + 4 PHB subclasses (Abjurer, Diviner, Evoker, Illusionist) + Bladesinger (FR). Script: tools/extract_wizard.py |
+| 2.16 | Extract spells → spells.md | ⬜ | — | Depends on B1, B2, B4. Also include Homunculus Servant spell (already extracted in classes/artificer.md — copy into spells.md as addendum, Source: Forge 2024) |
 | 2.17 | Extract magic items → magic-items.md | ⬜ | — | Depends on B3, B5, A8 |
 
 ---
@@ -81,3 +81,6 @@ When resuming in a new chat session: read PLAN.md first, then this file. Note th
 | 2026-03-18 | 1A-4: Clean PHB feats | Output written to sourcebooks/Cleaned/PHB24-feats.md. All feat categories (Origin, General, Fighting Style, Epic Boon) cleaned verbatim. Feat list table preserved. Script: tools/clean_phb24_feats.py |
 | 2026-03-18 | 1A-5: Clean Forge chapter-1 (Artificer) | Output written to sourcebooks/Cleaned/Forge-chapter-1-artificer.md. Core Artificer Traits table converted, all class features and 4 subclasses cleaned verbatim. Homunculus Servant stat block and spell included. Script: tools/clean_forge_chapter1_artificer.py |
 | 2026-03-18 | 1A-6: Clean Forge chapter-2 (char options) | Output written to sourcebooks/Cleaned/Forge-chapter-2-character-options.md. 17 backgrounds, 5 species, 14 Dragonmark feats (with spell tables), 13 Greater mark feats, Potent Dragonmark, Boon of Siberys. Script: tools/clean_forge_chapter2_character_options.py |
+| 2026-03-20 | 1A-7: Clean Frontiers24CharacterOptions | Output written to sourcebooks/Cleaned/Frontiers-character-options.md. 971 lines. 6 subclasses (Barbarian/Bard/Cleric/Ranger/Sorcerer/Warlock), 5 backgrounds (Dragonmarked Bravo/Foundling/Scion, Magewright, Wandslinger), 7 species (Gargoyle, Gnoll, Harpy, Medusa, Tiefling, Warforged, Worg), feats, new spells/cantrips. Script: tools/clean_frontiers_character_options.py |
+| 2026-03-20 | 1A-9: Clean FR chapter-1 (char options) | Output written to sourcebooks/Cleaned/FR-chapter-1-character-options.md. 1422 lines. Species lore (all PHB2024 species in FR context), 8 subclasses (College of Moon Bard, Knowledge Domain Cleric, Banneret Fighter, Oath of Noble Genies Paladin, Winter Walker Ranger, Scion of the Three Rogue, Spellfire Sorcery Sorcerer, Bladesinger Wizard), backgrounds, feats. Fixed artist-credit stripping for DDB export format. Script: tools/clean_fr_chapter1_character_options.py |
+| 2026-04-09 | 2.2: Extract feats → feats.md | Output written to sourcebooks/Extracted2/feats.md. 2868 lines. 165 feats total: 26 Origin, 89 General, 11 Fighting Style, 26 Epic Boon, 13 Dragonmark. Sources: PHB24, Forge ch2, FR ch1, Frontiers, Exploring Eberron. Handled Frontiers PDF artifacts (bold-italic sub-labels at ## level). Script: tools/extract_feats.py |
