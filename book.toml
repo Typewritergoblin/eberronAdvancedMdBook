@@ -6,4 +6,5 @@ title = "Eberron 5.5ish Setting"
 
 [output.html]
 site-url = "/eberronAdvancedMdBook/"
+default-theme = "navy"
 
