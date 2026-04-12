@@ -37,8 +37,6 @@ As a Bard, you gain the following class features when you reach the specified Ba
 
 ### Bard Features
 
-|   | ——Spell Slots per Spell Level—— |
-| --- | --- |
 | Level | Proficiency Bonus | Class Features | Bardic Die | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | +2 | Bardic Inspiration, Spellcasting | D6 | 2 | 4 | 2 | — | — | — | — | — | — | — | — |

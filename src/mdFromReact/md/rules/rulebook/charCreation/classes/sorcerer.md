@@ -36,8 +36,6 @@ As a Sorcerer, you gain the following class features when you reach the specifie
 
 ### Sorcerer Features
 
-|  | ——Spell Slots per Spell Level—— |
-| --- | --- |
 | Level | Proficiency Bonus | Class Features | Sorcery Points | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | +2 | Spellcasting, Innate Sorcery | — | 4 | 2 | 2 | — | — | — | — | — | — | — | — |

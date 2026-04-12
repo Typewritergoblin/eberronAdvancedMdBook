@@ -40,7 +40,7 @@ Choose a species from the [Species list](./origin/species.md). Record your size,
 ### Background
 Choose a background from the [Backgrounds list](./origin/backgrounds.md). Each background provides:
 - Ability score increases (one by 2 and one by 1, or all three by 1 — none above 20)
-- One Origin [Feat](./feats.md)
+- One Origin [Feat](./feats/featsOrigin.md) or Dragonmark [Feat](./feats/featsDragonmark.md)
 - Two skill proficiencies
 - One tool proficiency
 - Starting equipment or 50 GP

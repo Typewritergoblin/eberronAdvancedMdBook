@@ -35,8 +35,6 @@ As an Artificer, you gain the following class features when you reach the specif
 
 ### Artificer Features
 
-|  | ——Spell Slots per Spell Level—— |
-| --- | --- |
 | Level | Proficiency Bonus | Class Features | Plans Known | Magic Items | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | +2 | Spellcasting, Tinker’s Magic | — | — | 2 | 2 | 2 | — | — | — | — |

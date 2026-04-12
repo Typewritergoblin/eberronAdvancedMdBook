@@ -325,8 +325,6 @@ When you reach Fighter level 10, you learn another Wizard cantrip of your choice
 
 #### Eldritch Knight Spellcasting
 
-|   | —Spell Slots per Spell Level— |
-| --- | --- |
 | Fighter Level | Spells Prepared | 1 | 2 | 3 | 4 |
 | --- | --- | --- | --- | --- | --- |
 | 3 | 3 | 2 | — | — | — |

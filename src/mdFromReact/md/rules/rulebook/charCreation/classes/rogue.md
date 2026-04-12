@@ -184,8 +184,6 @@ When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 
 #### Arcane Trickster Spellcasting
 
-|  | —Spell Slots per Spell Level— |
-| --- | --- |
 | Rogue Level | Prepared Spells | 1 | 2 | 3 | 4 |
 | --- | --- | --- | --- | --- | --- |
 | 3 | 3 | 2 | — | — | — |

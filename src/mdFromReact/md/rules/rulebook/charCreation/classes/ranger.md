@@ -34,8 +34,6 @@ As a Ranger, you gain the following class features when you reach the specified 
 
 ### Ranger Features
 
-|  | —Spell Slots per Spell Level— |
-| --- | --- |
 | Level | Proficiency Bonus | Class Features | Favored Enemy | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | +2 | Spellcasting, Favored Enemy, Weapon Mastery | 2 | 2 | 2 | — | — | — | — |

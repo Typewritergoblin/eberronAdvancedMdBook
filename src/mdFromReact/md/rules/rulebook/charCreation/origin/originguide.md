@@ -4,6 +4,12 @@
 
 Every adventurer in Khorvaire has a past — a web of experiences that shaped who they are before they ever drew a blade or spoke an arcane word. In this campaign, a character's origin is built from three interlocking components: **Species**, **Background**, and **Culture**. Together these elements establish who your character is, where they came from, and what they knew before the adventure began.
 
+**Origin Steps:**
+1. [Choose a Species](#step-1-choose-a-species)
+2. [Choose a Background](#step-2-choose-a-background)
+3. [Choose a Culture](#step-3-choose-a-culture)
+4. [Choose Languages](#step-4-choose-languages)
+
 ---
 
 ## Origin Components
@@ -28,7 +34,7 @@ Khorvaire is home to humans, elves, dwarves, halflings, gnomes, half-elves, half
 
 **Special Traits.** Each species grants a set of special traits that reflect its unique physiology or magical nature. You gain all traits listed for your species.
 
-> See the [Species](../../../../../../mdFromReact/md/rules/rulebook/charCreation/origin/backgrounds.md) section for all available options.
+> See the [Species](../../../../../../mdFromReact/md/rules/rulebook/charCreation/origin/species.md) section for all available options.
 
 ---
 
@@ -70,8 +76,20 @@ Once you have chosen a culture, pick the following to represent your connection 
 
 **1 Additional Feat.** Choose one General feat that reflects a talent, tradition, or discipline common to your culture. This represents the bonus General Feat granted at 1st level for this campaign. Choose something that fits your character's cultural background rather than purely optimizing for combat.
 
-**Languages.** Your culture may suggest additional languages beyond those granted by your species and background. Work with the DM to identify languages appropriate to your region of origin. See [Languages](./languages.md) for the full list.
 
+---
+
+## Step 4: Choose Languages
+
+Languages are accumulated across all three origin components. By the end of character creation, your character will know a number of languages drawn from their species, background, and culture combined.
+
+**From Your Species.** Your species grants you Common plus one additional language tied to your people — Elvish for elves, Dwarvish for dwarves, and so on. Some species may grant additional languages or offer a choice.
+
+**From Your Background.** Some backgrounds grant one or more additional languages as part of their narrative. Check your chosen background for details.
+
+**From Your Culture.** Your culture reflects the region and community that shaped you. Work with your DM to choose languages that fit your cultural origin — a character raised in Aundair might know Elvish from its scholastic traditions, while one from Darguun might know Goblin as a second tongue alongside Common. Your culture does not grant a fixed language, but the DM may suggest one or more appropriate to your region.
+
+> See [Languages](./languages.md) for the full list of available languages, organized by type.
 
 ---
 
@@ -79,8 +97,9 @@ Once you have chosen a culture, pick the following to represent your connection 
 
 | Step | Choose | What You Gain |
 |:---|:---|:---|
-| 1 | Species | Creature type, size, speed, special traits |
-| 2 | Background | Ability score increases, Origin feat, 2 skill proficiencies, 1 tool proficiency, starting equipment or 50 GP |
-| 3 | Culture | 2 additional skill or tool proficiencies, 1 General feat, possible additional languages |
+| 1 | Species | Creature type, size, speed, special traits, Common + 1 species language |
+| 2 | Background | Ability score increases, Origin feat, 2 skill proficiencies, 1 tool proficiency, starting equipment or 50 GP, possible additional languages |
+| 3 | Culture | 2 additional skill or tool proficiencies, 1 General feat |
+| 4 | Languages | Any additional languages from species, background, and culture combined |
 
 Once you have completed your origin, move on to selecting your [Class](../classes/class.md) to determine your adventuring abilities.

@@ -38,8 +38,6 @@ As a Wizard, you gain the following class features when you reach the specified 
 
 ### Wizard Features
 
-|  | ——Spell Slots per Spell Level—— |
-| --- | --- |
 | Level | Proficiency Bonus | Class Features | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | +2 | Spellcasting, Ritual Adept, Arcane Recovery | 3 | 4 | 2 | — | — | — | — | — | — | — | — |

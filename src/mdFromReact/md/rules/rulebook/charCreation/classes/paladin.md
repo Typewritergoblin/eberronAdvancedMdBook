@@ -36,8 +36,6 @@ As a Paladin, you gain the following class features when you reach the specified
 
 ### Paladin Features
 
-|  | —Spell Slots per Spell Level— |
-| --- | --- |
 | Level | Proficiency Bonus | Class Features | Channel Divinity | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | +2 | Lay On Hands, Spellcasting, Weapon Mastery | — | 2 | 2 | — | — | — | — |
