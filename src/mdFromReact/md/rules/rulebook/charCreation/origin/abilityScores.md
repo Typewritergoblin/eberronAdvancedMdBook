@@ -4,7 +4,7 @@ This page will explain Ability Scores, Defenses, and Universal resources.
 
 <!-- toc -->
 
-## Eberron Ability Scores
+## Eberron Ability Scores Array
 
 For Eberron, we used "Community Array" - rolling statistics collectively, (all the players rolled 3d6 twice, and we took the top six of them).
 

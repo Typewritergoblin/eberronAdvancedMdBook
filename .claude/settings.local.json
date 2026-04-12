@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python tools/clean_phb24_equipment.py)",
+      "Bash(python tools/extract_equipment.py)"
+    ]
+  }
+}

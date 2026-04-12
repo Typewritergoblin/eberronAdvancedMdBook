@@ -36,7 +36,7 @@ When resuming in a new chat session: read PLAN.md first, then this file. Note th
 | B6 | Clean FR chapter-5 magic | ⬜ | — | |
 | B7 | Clean FR chapter-8 magic-items | ⬜ | — | |
 | B8 | Clean FR chapter-4 Aurora catalog | ⬜ | — | |
-| B9 | Clean PHB equipment | ⬜ | — | |
+| B9 | Clean PHB equipment | ✅ | — | Complete. 1357 lines. Sections: Coins, Weapons, Armor, Tools, Adventuring Gear, Mounts & Vehicles, Services, Magic Item rules, Crafting rules. Script: tools/clean_phb24_equipment.py |
 | B10 | Clean PHB creating-a-character | ⬜ | — | |
 | B11 | Clean PHB playing-the-game | ⬜ | — | |
 | B12 | Clean PHB rules-glossary | ⬜ | — | |
@@ -66,6 +66,13 @@ When resuming in a new chat session: read PLAN.md first, then this file. Note th
 | 2.13 | Extract Sorcerer class | ✅ | — | Complete. 743 lines. Base class + 4 PHB subclasses (Aberrant, Clockwork, Draconic, Wild Magic) + Spellfire Sorcery (FR) + Nemesis Sorcery (Frontiers). Script: tools/extract_sorcerer.py |
 | 2.14 | Extract Warlock class | ✅ | — | Complete. 802 lines. Base class + 4 PHB subclasses (Archfey, Celestial, Fiend, Great Old One) + Stone Sovereign Patron (Frontiers). Script: tools/extract_warlock.py |
 | 2.15 | Extract Wizard class | ✅ | — | Complete. 636 lines. Base class + 4 PHB subclasses (Abjurer, Diviner, Evoker, Illusionist) + Bladesinger (FR). Script: tools/extract_wizard.py |
+| 2.H | Append homebrew subclasses → Year1CharacterOptions/classes/ | ✅ | — | Complete. Appended College of Whispers (bard), Tempest Domain (cleric), Phantom (rogue), Undead Patron (warlock). Source: Homebrew. Script: tools/append_homebrew_subclasses.py |
+| 2.B | Extract backgrounds → Year1CharacterOptions/backgrounds.md | ✅ | — | Complete. 1156 lines. 59 backgrounds: 16 PHB, 17 Forge, 3 Exploring Eberron, 18 FR, 5 Frontiers. Frontiers PDF artifacts reconstructed (Scion/Wandslinger split text rejoined). Script: tools/extract_backgrounds.py |
+| 2.R | Reorganize species.md + backgrounds.md alphabetically | ✅ | — | Complete. Removed source grouping headers, sorted all entries A–Z, added linked TOC at top of each file. Script: tools/reorganize_species_and_backgrounds.py |
+| 2.E1 | Extract weapons → Year1CharacterOptions/weapons.md | ✅ | — | Complete. 158 lines. Intro + Weapons table (Simple Melee/Ranged, Martial Melee/Ranged) + Properties (9 entries) + Mastery Properties (8 entries). Script: tools/extract_equipment.py |
+| 2.E2 | Extract armor → Year1CharacterOptions/armor.md | ✅ | — | Complete. 65 lines. Intro + Armor table (Light/Medium/Heavy/Shield) + Armor Training rules. Script: tools/extract_equipment.py |
+| 2.E3 | Extract tools → Year1CharacterOptions/tools.md | ✅ | — | Complete. 221 lines. Tool Proficiency intro + Artisan's Tools (16 entries) + Other Tools (8 entries) with Ability/Utilize/Craft details. Script: tools/extract_equipment.py |
+| 2.E4 | Extract adventuring gear → Year1CharacterOptions/equipment.md | ✅ | — | Complete. 772 lines. Intro + Adventuring Gear table + ~80 item descriptions + Mounts & Vehicles + Services + Magic Item rules + Crafting rules. Script: tools/extract_equipment.py |
 | 2.16 | Extract spells → spells.md | ⬜ | — | Depends on B1, B2, B4. Also include Homunculus Servant spell (already extracted in classes/artificer.md — copy into spells.md as addendum, Source: Forge 2024) |
 | 2.17 | Extract magic items → magic-items.md | ⬜ | — | Depends on B3, B5, A8 |
 
@@ -84,3 +91,5 @@ When resuming in a new chat session: read PLAN.md first, then this file. Note th
 | 2026-03-20 | 1A-7: Clean Frontiers24CharacterOptions | Output written to sourcebooks/Cleaned/Frontiers-character-options.md. 971 lines. 6 subclasses (Barbarian/Bard/Cleric/Ranger/Sorcerer/Warlock), 5 backgrounds (Dragonmarked Bravo/Foundling/Scion, Magewright, Wandslinger), 7 species (Gargoyle, Gnoll, Harpy, Medusa, Tiefling, Warforged, Worg), feats, new spells/cantrips. Script: tools/clean_frontiers_character_options.py |
 | 2026-03-20 | 1A-9: Clean FR chapter-1 (char options) | Output written to sourcebooks/Cleaned/FR-chapter-1-character-options.md. 1422 lines. Species lore (all PHB2024 species in FR context), 8 subclasses (College of Moon Bard, Knowledge Domain Cleric, Banneret Fighter, Oath of Noble Genies Paladin, Winter Walker Ranger, Scion of the Three Rogue, Spellfire Sorcery Sorcerer, Bladesinger Wizard), backgrounds, feats. Fixed artist-credit stripping for DDB export format. Script: tools/clean_fr_chapter1_character_options.py |
 | 2026-04-09 | 2.2: Extract feats → feats.md | Output written to sourcebooks/Extracted2/feats.md. 2868 lines. 165 feats total: 26 Origin, 89 General, 11 Fighting Style, 26 Epic Boon, 13 Dragonmark. Sources: PHB24, Forge ch2, FR ch1, Frontiers, Exploring Eberron. Handled Frontiers PDF artifacts (bold-italic sub-labels at ## level). Script: tools/extract_feats.py |
+| 2026-04-11 | B9 task defined + 2.E1–2.E4 extraction tasks defined | Added B9 (Clean PHB equipment) and extraction tasks 2.E1 (weapons), 2.E2 (armor), 2.E3 (tools), 2.E4 (adventuring gear + services + crafting) to PROGRESS.md. Source: PHB24 equipment chapter (1491 lines). |
+| 2026-04-10 | B9 + 2.E1–2.E4: Clean and extract equipment | B9 complete (1357 lines, tools/clean_phb24_equipment.py). All four extraction tasks complete: weapons.md (158 lines), armor.md (65 lines), tools.md (221 lines), equipment.md (772 lines). Script: tools/extract_equipment.py |

@@ -1,5 +1,7 @@
 
-# I. Common Languages of Khorvaire
+## Languages
+
+### I. Common Languages of Khorvaire
 These languages are widely spoken across the continent of Khorvaire, facilitating trade and diplomacy.
 
 | Language | Type of Language | Description |
@@ -7,13 +9,12 @@ These languages are widely spoken across the continent of Khorvaire, facilitatin
 | **Common** | Common | The primary trade language of the Five Nations, introduced by human settlers from Sarlona. |
 | **Common Sign Language** | Common | A sign language used by many Common speakers; widely recognized in the Five Nations. |
 | **Goblin (Ghukliak)** | Common | The dominant language of the ancient Dhakaani Empire; spoken in Darguun, Droaam, and the Shadow Marches. |
-
 | **Dwarvish** | Common | Spoken in the Mror Holds; Mror dwarves also speak Common for trade. |
 | **Elvish** | Common | Spoken by the elves of Aerenal and Valenar; often learned by scholars and arcanists. |
 | **Gnomish** | Common | The native tongue of Zilargo. |
 | **Halfling** | Common | Spoken by the nomadic tribes of the Talenta Plains. |
 
-# II. Exotic and Regional Languages
+### II. Exotic and Regional Languages
 These languages are tied to specific cultures, distant continents, or isolated communities.
 
 | Language | Type of Language | Description |
@@ -31,7 +32,7 @@ These languages are tied to specific cultures, distant continents, or isolated c
 | **Undercommon** | Exotic / Regional | Spoken by denizens of Khyber and the Realm Below. |
 
 
-# III. Planar and Ancient Languages
+### III. Planar and Ancient Languages
 These languages originate from the planes or the dawn of time.
 
 | Language | Type of Language | Description |
@@ -44,7 +45,7 @@ These languages originate from the planes or the dawn of time.
 | **Infernal** | Planar / Ancient | A common language among fiends; also spoken by tieflings of the Venomous Demesne. |
 
 
-# IV. Unique and Secret Languages
+### IV. Unique and Secret Languages
 These languages are specific to certain organizations or subcultures, often requiring specialized training or physiology to use.
 
 | Language | Type of Language | Description |
@@ -59,7 +60,7 @@ These languages are specific to certain organizations or subcultures, often requ
 | **Wuura’gaa** | Unique / Secret | The language of the worgs of the Watching Wood. |
 | **Serpentine** | Unique / Secret | A language used by the medusas of Cazhaak Draal involving hissing and snake-hair movement. |
 
-# V. Obscure Planar Dialects
+### V. Obscure Planar Dialects
 Ancient texts and scholars may refer to specific languages tied to the planes, though in modern times these are often subsumed by Primordial, Celestial, or Abyssal.
 
 | Language | Type of Language | Description |

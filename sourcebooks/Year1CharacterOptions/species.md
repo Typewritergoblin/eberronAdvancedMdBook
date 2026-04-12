@@ -1,8 +1,40 @@
 # Species
 
----
+## Contents
 
-## Player's Handbook 2024
+- [Aasimar](#aasimar)
+- [Aasimar (Eberron Variants)](#aasimar-eberron-variants)
+- [Changeling](#changeling)
+- [Dhakaani Ghaal'dar (Hobgoblin)](#dhakaani-ghaaldar-hobgoblin)
+- [Dhakaani Golin'dar (Goblin)](#dhakaani-golindar-goblin)
+- [Dhakaani Guul'dar (Bugbear)](#dhakaani-guuldar-bugbear)
+- [Dragonborn](#dragonborn)
+- [Dwarf](#dwarf)
+- [Elf](#elf)
+- [Gargoyle](#gargoyle)
+- [Gnoll (Exploring Eberron)](#gnoll-exploring-eberron)
+- [Gnoll (Frontiers of Eberron)](#gnoll-frontiers-of-eberron)
+- [Gnome](#gnome)
+- [Goliath](#goliath)
+- [Halfling](#halfling)
+- [Harpy](#harpy)
+- [Human](#human)
+- [Jhorgun'taal (Half-orc)](#jhorguntaal-half-orc)
+- [Kalamer Landwalker (Merfolk)](#kalamer-landwalker-merfolk)
+- [Kalashtar](#kalashtar)
+- [Khoravar](#khoravar)
+- [Medusa](#medusa)
+- [Orc](#orc)
+- [Ruinbound](#ruinbound)
+- [Sahuagin](#sahuagin)
+- [Shifter](#shifter)
+- [Tiefling](#tiefling)
+- [Tiefling (Eberron Variant)](#tiefling-eberron-variant)
+- [Warforged](#warforged)
+- [Warforged (Frontiers of Eberron)](#warforged-frontiers-of-eberron)
+- [Worg](#worg)
+
+---
 
 ### Aasimar
 
@@ -39,6 +71,136 @@ Here are the transformation options:
 **Necrotic Shroud.** Your eyes briefly become pools of darkness, and flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you must succeed on a Charisma saving throw (DC 8 plus your Charisma modifier and Proficiency Bonus) or have the Frightened condition until the end of your next turn.
 
 **Source:** Player's Handbook 2024
+
+---
+
+### Aasimar (Eberron Variants)
+
+These rare humanoids have no culture of their own. Rather, aasimar are individuals shaped by exposure to divine forces or the energies of the planes, as discussed in Faiths of Eberron. The following variants reflect two unusual forms of Aasimar that can be found in Eberron: the Fernian Aasimar, infused with otherworldly fire, and the Mabaran Aasimar, bound to shadows and despair.
+
+*Base Aasimar traits are as written in the Player's Handbook 2024. Apply the relevant variant modifications below.*
+
+#### Variant: Fernian Aasimar
+
+If your Aasimar's powers flow from Fernia, you are infused with otherworldly fire. When you use Celestial Revelation, your Heavenly Wings are formed from flame; your Necrotic Shroud is a terrifying aura of ghostly fire; and when you use Inner Radiance, enemies take Fire damage rather than Radiant damage. In addition, replace the Celestial Resistance and Light Bearer traits of the standard Aasimar with the following traits.
+
+**Fernian Resistance.** You have Resistance to Fire damage and Necrotic damage.
+
+**Flame Bearer.** You know the Produce Flame cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose the ability when you select this species).
+
+#### Variant: Mabaran Aasimar
+
+If your Aasimar's powers are drawn from Mabar, you are bound to shadows and despair. Replace the Light Bearer trait of the standard Aasimar with Herald of Death, and replace the Inner Radiance option of Celestial Revelation with Inner Darkness.
+
+**Herald of Death.** You know the Toll The Dead cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose the ability when you select this species).
+
+**Inner Darkness.** You consume light and life, creating a shroud of shadows. For the duration, you reduce Bright Light in a 20-foot radius to Dim Light, and at the end of each of your turns, each creature within 10 feet of you takes Necrotic damage equal to your Proficiency Bonus.
+
+**Source:** Exploring Eberron 2024
+
+---
+
+### Changeling
+
+With ever-changing appearances, changelings reside in many societies undetected. Each changeling can supernaturally adopt any face they like. For some changelings, a new face may reveal an aspect of their soul.
+
+The first changelings in the multiverse appeared in the Feywild, and the wondrous, mutable essence of that plane lingers in changelings today—even in those who have never set foot in the fey realm.
+
+In their true form, changelings appear faded, their features almost devoid of detail. It is rare to see one in that form, for a typical changeling alters their shape the way others might change clothes. However, many changelings develop identities with more depth, crafting a persona complete with history and beliefs to go with each shape. A changeling adventurer might have personas for many situations, including negotiation, investigation, and combat.
+
+Multiple changelings can share a persona. Personas can even pass down through a family, allowing a younger changeling to take advantage of contacts established by the persona's previous users.
+
+**Creature Type:** Fey
+
+**Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
+
+**Speed:** 30 feet
+
+As a Changeling, you have these special traits.
+
+***Changeling Instincts.*** Thanks to your connection to the fey realm, you gain proficiency in two of the following skills of your choice: Deception, Insight, Intimidation, Performance, or Persuasion.
+
+***Shape-Shifter.*** As an action, you can shape-shift to change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight and can change your size between Medium and Small. You can make yourself appear as a member of another playable species, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. This trait doesn't change your clothing and equipment.
+
+While shape-shifted with this trait, you have Advantage on Charisma checks.
+
+You stay in the new form until you take an action to revert to your true form.
+
+**Source:** Eberron: Forge of the Artificer 2024
+
+---
+
+### Dhakaani Ghaal'dar (Hobgoblin)
+
+Dhakaani hobgoblins are known as ghaal'dar, "mighty folk"—not to be confused with the Ghaal'dar tribes that dominate Darguun. The ghaal'dar are soldiers, scholars, and leaders, valued for their versatility and their vision.
+
+**Creature Type:** Humanoid
+
+**Size:** Medium (about 5–6 feet tall)
+
+**Speed:** 30 feet
+
+As a Dhakaani Ghaal'dar, you have these special traits.
+
+**Darkvision.** You have Darkvision with a range of 60 feet.
+
+**Discipline.** You have Advantage on saving throws you make to avoid or end the Charmed condition.
+
+**Strength in Unity.** If you fail a D20 Test, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a Short or Long Rest.
+
+**War and Peace.** You gain proficiency in two of the following skills: Athletics, History, Intimidation, Performance.
+
+**Source:** Exploring Eberron 2024
+
+---
+
+### Dhakaani Golin'dar (Goblin)
+
+Dhakaani goblins are known as golin'dar, "quick folk." They reproduce and mature faster than other dar, and form the bulk of the labor force in Dhakaani society. This includes menial labor, agriculture, food preparation, and skilled craftwork. Though ghaal'dar are the primary smiths of weapons and armor, most other manufacturing is done by the golin'dar. While this work may be less dramatic than the martial paths of the ghaal'dar and guul'dar, it's vital to survival and the golin'dar are respected for their contributions. Other golin'dar take a different path, that of the Khesh'dar, the Silent Folk who live in the shadows of the empire.
+
+**Creature Type:** Humanoid
+
+**Size:** Small (about 3–4 feet tall)
+
+**Speed:** 35 feet
+
+As a Dhakaani Golin'dar, you have these special traits.
+
+**Darkvision.** You have Darkvision with a range of 60 feet.
+
+**Discipline.** You have Advantage on saving throws you make to avoid or end the Charmed condition.
+
+**Naturally Stealthy.** You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
+
+**Nimbleness.** You can move through the space of any creature that is a size larger than you, but you can't stop in the same space.
+
+**Source:** Exploring Eberron 2024
+
+---
+
+### Dhakaani Guul'dar (Bugbear)
+
+Dhakaani bugbears are known as guul'dar, "strong folk," and are celebrated for their strength and courage. They help perform heavy labor where strength is required, but most yearn to prove their mettle on the battlefield, risking their lives to earn the glory known as atcha.
+
+**Creature Type:** Humanoid
+
+**Size:** Medium (about 6–8 feet tall)
+
+**Speed:** 30 feet
+
+As a Dhakaani Guul'dar, you have these special traits.
+
+**Darkvision.** You have Darkvision with a range of 60 feet.
+
+**Brave.** You have Advantage on saving throws you make to avoid or end the Frightened condition.
+
+**Long-Limbed.** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+
+**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
+
+**Stand by the Strong.** When an ally within 30 feet that can see you fails a saving throw to avoid or end the Frightened condition, you can use your Reaction to allow them to reroll the saving throw.
+
+**Source:** Exploring Eberron 2024
 
 ---
 
@@ -167,6 +329,98 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 
 ---
 
+### Gargoyle
+
+Gargoyles are indistinguishable from stone statues… until they move. In Eberron, the first gargoyles were carved by Dhakaani goblins, but it was the daelkyr Orlassk who brought them to life. The oldest gargoyles have been in a state of torpor for thousands of years. Now they have risen to carve out a place of their own in the new nation of Droaam.
+
+Gargoyles are humanoids carved from stone. The horned, winged form often associated with the gargoyle is a common design; in Eberron the Dhakaani placed these fierce figures on fortresses. However, gargoyles don't have to have horns or wings, and they can alter their form over time. Gargoyles reproduce by imbuing a sliver of their life force into a stone and burying it in gravel; this seed assimilates mass from the loose stone and builds its final form.
+
+Gargoyles have no need of food or drink. They are nearly immune to the passage of time and can remain standing still indefinitely. For any gargoyle, a fundamental question is _why they choose to move at all._ What drives them? There are a few common archetypes. _Seekers_ are driven by curiosity, and love seeing new places and learning new things. _Guardians_ devote themselves to protecting a person, place, or concept. _Movers_ enjoy motion itself—flight, fighting, dancing—and often become scouts or soldiers. _Thinkers_ are rarely seen, because they have the least reason to actually move; they live to ponder philosophies and ideas. A statue in a temple or a library could be a gargoyle priest or sage, lost in contemplation.
+
+**Creature Type:** Elemental
+
+**Size:** Medium (about 5–7 feet tall)
+
+**Speed:** 30 feet
+
+As a Gargoyle, you have these special traits.
+
+***Darkvision.*** You have Darkvision with a range of 60 feet.
+
+***Elemental Nature.*** You are a creature of living stone, which provides the following benefits.
+
+- You have Resistance to Poison damage. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
+
+- You don't need to eat, drink, or breathe. You do not gain Exhaustion levels due to Dehydration, Malnutrition, or Suffocation.
+
+- You are immune to disease.
+
+- You don't need to sleep, and magic can't put you to sleep.
+
+- You cannot be subjected to the Petrified condition against your will.
+
+***False Appearance.*** While you remain motionless, you are indistinguishable from an inanimate statue.
+
+***Sentry's Rest.*** You can finish a Long Rest in 6 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.
+
+***Stoneskin.*** Your thick stone hide provides you with natural armor. While you aren't wearing armor, your base Armor Class equals 13 plus your Dexterity modifier. You can use a Shield and still gain this benefit.
+
+**Source:** Frontiers of Eberron 2024
+
+---
+
+### Gnoll (Exploring Eberron)
+
+Fierce and feral, the first gnolls were hyenas infused with malefic power by archfiends of war and the wild. They were created as cruel soldiers to serve in the endless conflicts of fiends, but over the course of countless generations a number of gnoll clans broke their ties to their demon overlords. These free gnolls are fiercely loyal to their pack and their clan, and serve as a stabilizing force within Droaam.
+
+Gnolls that are bound to the overlords are vicious and wild. Those who have escaped this bondage still have a fiendish spark within, but they contain and control this power. Some learn to wield it as Warlocks. Others known as hwyri train to fight demons and other supernatural threats. Even free gnolls can be aggressive, but they are gifted hunters and fiercely loyal to those they choose as family.
+
+**Creature Type:** Humanoid.
+
+**Size:** Medium (about 7–8 feet tall)
+
+**Speed:** 30 feet
+
+As a Gnoll, you have these special traits.
+
+**Darkvision.** You have Darkvision with a range of 60 feet.
+
+**Bite.** Your teeth are natural weapons, which you can use to make Unarmed Strikes. If you hit with them, you deal Piercing damage equal to 1d6 plus your Strength modifier in place of the normal Bludgeoning damage of your Unarmed Strike.
+
+**Hunter's Senses.** You have proficiency in the Perception, Stealth, or Survival skill.
+
+**Rampage.** When you use your Bite or reduce a creature to 0 Hit Points with an attack, you can take a Bonus Action to move up to half your Speed and make one attack with a weapon or an Unarmed Strike using your Bite.
+
+**Source:** Exploring Eberron 2024
+
+---
+
+### Gnoll (Frontiers of Eberron)
+
+Fierce and feral, the first gnolls were hyenas infused with malefic power by archfiends of war and the wild. They were created as cruel soldiers to serve in the endless conflicts of fiends, but over the course of countless generations a number of gnoll clans broke their ties to their demon overlords. These free gnolls are fiercely loyal to their pack and their clan, and serve as a stabilizing force within Droaam.
+
+Gnolls that are bound to the overlords are vicious and wild. Those who have escaped this bondage still have a fiendish spark within, but they contain and control this power. Some learn to wield it as Warlocks. Others known as hwyri train to fight demons and other supernatural threats. Even free gnolls can be aggressive, but they are gifted hunters and fiercely loyal to those they choose as family.
+
+**Creature Type:** Humanoid
+
+**Size:** Medium (about 7–8 feet tall)
+
+**Speed:** 30 feet
+
+As a Gnoll, you have these special traits.
+
+***Darkvision.*** You have Darkvision with a range of 60 feet.
+
+***Bite.*** Your teeth are natural weapons, which you can use to make Unarmed Strikes. If you hit with them, you deal Piercing damage equal to 1d4 plus your Strength modifier in place of the normal Bludgeoning damage of your Unarmed Strike.
+
+***Hunter's Senses.*** You have proficiency in the Perception, Stealth, or Survival skill.
+
+***Rampage.*** When you use your Bite or reduce a creature to 0 Hit Points with an attack, you can use a Bonus Action to move up to half your Speed and make one attack with a weapon or an Unarmed Strike using your Bite.
+
+**Source:** Frontiers of Eberron 2024
+
+---
+
 ### Gnome
 
 Gnomes are magical folk created by gods of invention, illusions, and life underground. The earliest gnomes were seldom seen by other folk due to the gnomes' secretive nature and their propensity for living in forests and burrows. What they lacked in size, they made up for in cleverness. They confounded predators with traps and labyrinthine tunnels. They also learned magic from gods like Garl Glittergold, Baervan Wildwanderer, and Baravar Cloakshadow, who visited them in disguise. That magic eventually created the lineages of forest gnomes and rock gnomes.
@@ -261,6 +515,40 @@ As a Halfling, you have these special traits.
 
 ---
 
+### Harpy
+
+Harpies blend avian and human elements, possessing functional wings and birdlike legs ending in clawed feet. But the most remarkable feature of a harpy is their voice. Arcane power flows through a harpy and into their words, allowing them to manipulate emotions and to charm even the most hardened of hearts. While there are always exceptions, most harpies are passionate and energetic; the power of their song reflects their own surging emotions. Most enjoy the freedom of flight, expressing themselves through sound and motion.
+
+The passionate nature of the harpy is reflected in their devotion to family, friends, and causes. Some of the harpy flights of Droaam are the most loyal allies of the Daughters of Sora Kell, while others stubbornly oppose their plans for Droaam. When creating a harpy character, think about their driving passion and pursue it fiercely.
+
+**Creature Type:** Humanoid
+
+**Size:** Medium (about 5–6 feet tall)
+
+**Speed:** 30 feet
+
+As a Harpy, you have these special traits.
+
+***Flight.*** You have a Fly Speed equal to your Speed while you aren't wearing Medium or Heavy armor.
+
+***Songbird.*** You have proficiency in the Performance skill.
+
+***Harpy's Charms.*** You know the _Friends_ cantrip and can cast it using only Verbal components in place of its usual components. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
+
+***Shadow's Magic.*** If you have the Spellcasting or the Pact Magic class feature, the spells on the Harpy Spells table are added to the spell list of your spellcasting class. You can cast these spells using only Verbal components in place of their usual components.
+
+| Spell Level | Spell |
+| --- | --- |
+| 1 | Charm Person |
+| 2 | Suggestion |
+| 3 | Enemies Abound [XGE] |
+| 4 | Charm Monster |
+| 5 | Dominate Person |
+
+**Source:** Frontiers of Eberron 2024
+
+---
+
 ### Human
 
 Found throughout the multiverse, humans are as varied as they are numerous, and they endeavor to achieve as much as they can in the years they are given. Their ambition and resourcefulness are commended, respected, and feared on many worlds.
@@ -285,105 +573,55 @@ As a Human, you have these special traits.
 
 ---
 
-### Orc
+### Jhorgun'taal (Half-orc)
 
-Orcs trace their creation to Gruumsh, a powerful god who roamed the wide open spaces of the Material Plane. Gruumsh equipped his children with gifts to help them wander great plains, vast caverns, and churning seas and to face the monsters that lurk there. Even when they turn their devotion to other gods, orcs retain Gruumsh's gifts: endurance, determination, and the ability to see in darkness.
+Long ago, the orcs of the Shadow Marches welcomed human refugees from Sarlona. The two species have lived together in harmony for centuries. Most humans or orcs from the Marches have some degree of mixed lineage, even though they may use the game statistics of the species they outwardly resemble. However, the union of human and orc can produce children who have physical traits of both parent species. In the Shadow Marches, such people are called Jhorgun'taal, "children of two bloods"; they are celebrated as a symbol of the bond between orcs and humans. Jhorgun'taal blend the endurance of their orc ancestors with the flexibility of humanity.
 
-Orcs are, on average, tall and broad. They have gray skin, ears that are sharply pointed, and prominent lower canines that resemble small tusks. Orc youths on some worlds are told about their ancestors' great travels and travails. Inspired by those tales, many of those orcs wonder when Gruumsh will call on them to match the heroic deeds of old and if they will prove worthy of his favor. Other orcs are happy to leave old tales in the past and find their own way.
-
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 6–7 feet tall)
-
-**Speed:** 30 feet
-
-As an Orc, you have these special traits.
-
-***Adrenaline Rush.*** You can take the Dash action as a Bonus Action. When you do so, you gain a number of Temporary Hit Points equal to your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Short or Long Rest.
-
-***Darkvision.*** You have Darkvision with a range of 120 feet.
-
-***Relentless Endurance.*** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
-
-**Source:** Player's Handbook 2024
-
----
-
-### Tiefling
-
-Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling's fiendish legacy, which comes with the promise of power yet has no effect on the tiefling's moral outlook.
-
-A tiefling chooses whether to embrace or lament their fiendish legacy. The three legacies are described below.
-
-#### Abyssal
-
-The entropy of the Abyss, the chaos of Pandemonium, and the despair of Carceri call to tieflings who have the abyssal legacy. Horns, fur, tusks, and peculiar scents are common physical features of such tieflings, most of whom have the blood of demons coursing through their veins.
-
-#### Chthonic
-
-Tieflings who have the chthonic legacy feel not only the tug of Carceri but also the greed of Gehenna and the gloom of Hades. Some of these tieflings look cadaverous. Others possess the unearthly beauty of a succubus, or they have physical features in common with a night hag, a yugoloth, or some other Neutral Evil fiendish ancestor.
-
-#### Infernal
-
-The infernal legacy connects tieflings not only to Gehenna but also the Nine Hells and the raging battlefields of Acheron. Horns, spines, tails, golden eyes, and a faint odor of sulfur or smoke are common physical features of such tieflings, most of whom trace their ancestry to devils.
+As House Tharashk has spread across Khorvaire, Jhorgun'taal are often found as inquisitives, bounty hunters, and prospectors. The Mark of Finding can manifest on humans, orcs, or Jhorgun'taal who can trace their ancestry to the Shadow Marches.
 
 **Creature Type:** Humanoid
 
-**Size:** Medium (about 4–7 feet tall) or Small (about 3–4 feet tall), chosen when you select this species
+**Size:** Medium (about 5–7 feet tall)
 
 **Speed:** 30 feet
 
-As a Tiefling, you have the following special traits.
+As a Jhorgun'taal, you have these special traits.
 
-***Darkvision.*** You have Darkvision with a range of 60 feet.
+**Darkvision.** You have Darkvision with a range of 60 feet.
 
-***Fiendish Legacy.*** You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table. You gain the level 1 benefit of the chosen legacy.
+**Relentless Endurance.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
 
-When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
+**Versatile.** You gain an Origin feat of your choice.
 
-***Otherworldly Presence.*** You know the Thaumaturgy cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy trait.
-
-##### Fiendish Legacies
-
-| Legacy | Level 1 | Level 3 | Level 5 |
-| --- | --- | --- | --- |
-| Abyssal | You have Resistance to Poison damage. You also know the Poison Spray cantrip. | Ray of Sickness | Hold Person |
-| Chthonic | You have Resistance to Necrotic damage. You also know the Chill Touch cantrip. | False Life | Ray of Enfeeblement |
-| Infernal | You have Resistance to Fire damage. You also know the Fire Bolt cantrip. | Hellish Rebuke | Darkness |
-
-**Source:** Player's Handbook 2024
+**Source:** Exploring Eberron 2024
 
 ---
 
-## Eberron: Forge of the Artificer 2024
+### Kalamer Landwalker (Merfolk)
 
-### Changeling
+The Kalamer merfolk dwell in the Thunder Sea, and most spend their entire lives beneath the waves. However, a few are called to walk above the water. Those that embrace this path may become Kalamer Landwalkers, gaining the magical ability to transform their fish-tail into a pair of humanoid legs. Landwalkers are exceptionally rare, and few surface-dwellers have ever seen one. Some Kalamer Landwalkers feel a call to accomplish a specific goal, fulfilling a mission for the good of the world. Others are driven purely by curiosity, and yearn to see new places and find wondrous things.
 
-With ever-changing appearances, changelings reside in many societies undetected. Each changeling can supernaturally adopt any face they like. For some changelings, a new face may reveal an aspect of their soul.
+**Creature Type:** Elemental
 
-The first changelings in the multiverse appeared in the Feywild, and the wondrous, mutable essence of that plane lingers in changelings today—even in those who have never set foot in the fey realm.
+**Size:** Medium (about 5–7 feet tall)
 
-In their true form, changelings appear faded, their features almost devoid of detail. It is rare to see one in that form, for a typical changeling alters their shape the way others might change clothes. However, many changelings develop identities with more depth, crafting a persona complete with history and beliefs to go with each shape. A changeling adventurer might have personas for many situations, including negotiation, investigation, and combat.
+**Speed:** 10 feet, Swim 40 feet
 
-Multiple changelings can share a persona. Personas can even pass down through a family, allowing a younger changeling to take advantage of contacts established by the persona's previous users.
+As a Kalamer Landwalker, you have these special traits.
 
-**Creature Type:** Fey
+**Darkvision.** You have Darkvision with a range of 60 feet.
 
-**Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
+**Amphibious.** You can breathe air and water.
 
-**Speed:** 30 feet
+**Blessing of the Sea.** You have two forms: your natural merfolk form and that of a landwalker. As a Magic action, you can shape-shift to change from your merfolk form to your landwalker form. While in your landwalker form, your fish-like fluke splits into 2 legs. Your Speed increases by 20 feet, but your Swim Speed is reduced to 0.
 
-As a Changeling, you have these special traits.
+You stay in the new form until you take a Magic action to revert to your merfolk form.
 
-***Changeling Instincts.*** Thanks to your connection to the fey realm, you gain proficiency in two of the following skills of your choice: Deception, Insight, Intimidation, Performance, or Persuasion.
+**Karakala Lore.** You have proficiency in the Nature, Performance, or Survival skill.
 
-***Shape-Shifter.*** As an action, you can shape-shift to change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight and can change your size between Medium and Small. You can make yourself appear as a member of another playable species, though none of your game statistics change. You can't duplicate the appearance of an individual you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. This trait doesn't change your clothing and equipment.
+**Swift Swimmer.** You have a Swim speed equal to your Speed.
 
-While shape-shifted with this trait, you have Advantage on Charisma checks.
-
-You stay in the new form until you take an action to revert to your true form.
-
-**Source:** Eberron: Forge of the Artificer 2024
+**Source:** Exploring Eberron 2024
 
 ---
 
@@ -441,170 +679,6 @@ As a Khoravar, you have these special traits.
 
 ---
 
-### Shifter
-
-Shifters—sometimes called "weretouched"—descend from people who contracted full or partial lycanthropy. Humanoids with a bestial aspect, shifters can't change shape fully, but they can enhance their animalistic features temporarily in a process they call "shifting."
-
-Shifters resemble humans in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes and pointed ears; most shifters also possess prominent canine teeth. They grow fur-like hair on nearly every part of their bodies. While a shifter's appearance might remind an onlooker of an animal, the shifter remains clearly identifiable as a Humanoid even when at their most feral.
-
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
-
-**Speed:** 30 feet
-
-As a Shifter, you have these special traits.
-
-***Bestial Instincts.*** Channeling the beast within, you gain proficiency in one of the following skills of your choice: Acrobatics, Athletics, Intimidation, or Survival.
-
-***Darkvision.*** You have Darkvision with a range of 60 feet.
-
-***Shifting.*** As a Bonus Action, you can shape-shift to assume a more bestial appearance. This transformation lasts for 1 minute or until you revert to your normal appearance as a Bonus Action. When you shift, you gain Temporary Hit Points equal to 2 times your Proficiency Bonus. You can shift a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
-
-Whenever you shift, you gain the benefit of one of the following options (choose when you select this species):
-
-**Beasthide.** You gain 1d6 additional Temporary Hit Points. While shifted, you have a +1 bonus to your Armor Class.
-
-**Longtooth.** When you shift and as a Bonus Action on your other turns while shifted, you can use your elongated fangs to make an Unarmed Strike. If you hit with this Unarmed Strike and deal damage, you can deal Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage of an Unarmed Strike.
-
-**Swiftstride.** While you are shifted, your Speed increases by 10 feet. Additionally, you can move up to 10 feet as a Reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke Opportunity Attack action.
-
-**Wildhunt.** While shifted, you have Advantage on Wisdom checks. Additionally, no creature within 30 feet of you can have Advantage on an attack roll against you unless you have the Incapacitated condition.
-
-**Source:** Eberron: Forge of the Artificer 2024
-
----
-
-### Warforged
-
-Warforged are mechanical beings built as weapons to fight in the Last War. An unexpected breakthrough produced sentient beings made from wood and metal that nevertheless can feel pain and emotion.
-
-Warforged comprise a blend of organic and inorganic materials. Rootlike cords infused with alchemical fluids serve as their muscles, wrapped around a framework of steel, darkwood, or stone. Armored plates form a protective outer shell and reinforce joints. The more a warforged cultivates their individuality, the more likely they are to modify their body, seeking out an artificer to customize the look of their face, limbs, and plating.
-
-**Creature Type:** Construct
-
-**Size:** Medium (about 6–8 feet tall) or Small (about 3–4 feet tall), chosen when you select this species
-
-**Speed:** 30 feet
-
-As a Warforged, you have these special traits.
-
-***Construct Resilience.*** You have Resistance to Poison damage. You also have Advantage on saving throws to avoid or end the Poisoned condition.
-
-***Integrated Protection.*** You gain a +1 bonus to your Armor Class. In addition, armor you have donned can't be removed against your will while you're alive.
-
-***Sentry's Rest.*** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 6 hours if you spend those hours in an inactive, motionless state. During this time, you appear inert but remain conscious.
-
-***Specialized Design.*** You gain one skill proficiency and one tool proficiency of your choice.
-
-***Tireless.*** You don't gain Exhaustion levels from dehydration, malnutrition, or suffocation.
-
-**Source:** Eberron: Forge of the Artificer 2024
-
----
-
-## Frontiers of Eberron 2024
-
-### Gargoyle
-
-Gargoyles are indistinguishable from stone statues… until they move. In Eberron, the first gargoyles were carved by Dhakaani goblins, but it was the daelkyr Orlassk who brought them to life. The oldest gargoyles have been in a state of torpor for thousands of years. Now they have risen to carve out a place of their own in the new nation of Droaam.
-
-Gargoyles are humanoids carved from stone. The horned, winged form often associated with the gargoyle is a common design; in Eberron the Dhakaani placed these fierce figures on fortresses. However, gargoyles don't have to have horns or wings, and they can alter their form over time. Gargoyles reproduce by imbuing a sliver of their life force into a stone and burying it in gravel; this seed assimilates mass from the loose stone and builds its final form.
-
-Gargoyles have no need of food or drink. They are nearly immune to the passage of time and can remain standing still indefinitely. For any gargoyle, a fundamental question is _why they choose to move at all._ What drives them? There are a few common archetypes. _Seekers_ are driven by curiosity, and love seeing new places and learning new things. _Guardians_ devote themselves to protecting a person, place, or concept. _Movers_ enjoy motion itself—flight, fighting, dancing—and often become scouts or soldiers. _Thinkers_ are rarely seen, because they have the least reason to actually move; they live to ponder philosophies and ideas. A statue in a temple or a library could be a gargoyle priest or sage, lost in contemplation.
-
-**Creature Type:** Elemental
-
-**Size:** Medium (about 5–7 feet tall)
-
-**Speed:** 30 feet
-
-As a Gargoyle, you have these special traits.
-
-***Darkvision.*** You have Darkvision with a range of 60 feet.
-
-***Elemental Nature.*** You are a creature of living stone, which provides the following benefits.
-
-- You have Resistance to Poison damage. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
-
-- You don't need to eat, drink, or breathe. You do not gain Exhaustion levels due to Dehydration, Malnutrition, or Suffocation.
-
-- You are immune to disease.
-
-- You don't need to sleep, and magic can't put you to sleep.
-
-- You cannot be subjected to the Petrified condition against your will.
-
-***False Appearance.*** While you remain motionless, you are indistinguishable from an inanimate statue.
-
-***Sentry's Rest.*** You can finish a Long Rest in 6 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.
-
-***Stoneskin.*** Your thick stone hide provides you with natural armor. While you aren't wearing armor, your base Armor Class equals 13 plus your Dexterity modifier. You can use a Shield and still gain this benefit.
-
-**Source:** Frontiers of Eberron 2024
-
----
-
-### Gnoll (Frontiers of Eberron)
-
-Fierce and feral, the first gnolls were hyenas infused with malefic power by archfiends of war and the wild. They were created as cruel soldiers to serve in the endless conflicts of fiends, but over the course of countless generations a number of gnoll clans broke their ties to their demon overlords. These free gnolls are fiercely loyal to their pack and their clan, and serve as a stabilizing force within Droaam.
-
-Gnolls that are bound to the overlords are vicious and wild. Those who have escaped this bondage still have a fiendish spark within, but they contain and control this power. Some learn to wield it as Warlocks. Others known as hwyri train to fight demons and other supernatural threats. Even free gnolls can be aggressive, but they are gifted hunters and fiercely loyal to those they choose as family.
-
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 7–8 feet tall)
-
-**Speed:** 30 feet
-
-As a Gnoll, you have these special traits.
-
-***Darkvision.*** You have Darkvision with a range of 60 feet.
-
-***Bite.*** Your teeth are natural weapons, which you can use to make Unarmed Strikes. If you hit with them, you deal Piercing damage equal to 1d4 plus your Strength modifier in place of the normal Bludgeoning damage of your Unarmed Strike.
-
-***Hunter's Senses.*** You have proficiency in the Perception, Stealth, or Survival skill.
-
-***Rampage.*** When you use your Bite or reduce a creature to 0 Hit Points with an attack, you can use a Bonus Action to move up to half your Speed and make one attack with a weapon or an Unarmed Strike using your Bite.
-
-**Source:** Frontiers of Eberron 2024
-
----
-
-### Harpy
-
-Harpies blend avian and human elements, possessing functional wings and birdlike legs ending in clawed feet. But the most remarkable feature of a harpy is their voice. Arcane power flows through a harpy and into their words, allowing them to manipulate emotions and to charm even the most hardened of hearts. While there are always exceptions, most harpies are passionate and energetic; the power of their song reflects their own surging emotions. Most enjoy the freedom of flight, expressing themselves through sound and motion.
-
-The passionate nature of the harpy is reflected in their devotion to family, friends, and causes. Some of the harpy flights of Droaam are the most loyal allies of the Daughters of Sora Kell, while others stubbornly oppose their plans for Droaam. When creating a harpy character, think about their driving passion and pursue it fiercely.
-
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 5–6 feet tall)
-
-**Speed:** 30 feet
-
-As a Harpy, you have these special traits.
-
-***Flight.*** You have a Fly Speed equal to your Speed while you aren't wearing Medium or Heavy armor.
-
-***Songbird.*** You have proficiency in the Performance skill.
-
-***Harpy's Charms.*** You know the _Friends_ cantrip and can cast it using only Verbal components in place of its usual components. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
-
-***Shadow's Magic.*** If you have the Spellcasting or the Pact Magic class feature, the spells on the Harpy Spells table are added to the spell list of your spellcasting class. You can cast these spells using only Verbal components in place of their usual components.
-
-| Spell Level | Spell |
-| --- | --- |
-| 1 | Charm Person |
-| 2 | Suggestion |
-| 3 | Enemies Abound [XGE] |
-| 4 | Charm Monster |
-| 5 | Dominate Person |
-
-**Source:** Frontiers of Eberron 2024
-
----
-
 ### Medusa
 
 Medusas are infamous across Khorvaire for the deadly power of their petrifying gaze. The medusas of Cazhaak Draal are one of the most powerful forces within Droaam, renowned both for their remarkable stonework and their deep devotion to the Dark Six; the Cazhaak Creed has become the most widespread religion in Droaam. Medusas tend to be calm and calculating, useful traits when a single glance can have devastating consequences.
@@ -645,6 +719,185 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 
 ---
 
+### Orc
+
+Orcs trace their creation to Gruumsh, a powerful god who roamed the wide open spaces of the Material Plane. Gruumsh equipped his children with gifts to help them wander great plains, vast caverns, and churning seas and to face the monsters that lurk there. Even when they turn their devotion to other gods, orcs retain Gruumsh's gifts: endurance, determination, and the ability to see in darkness.
+
+Orcs are, on average, tall and broad. They have gray skin, ears that are sharply pointed, and prominent lower canines that resemble small tusks. Orc youths on some worlds are told about their ancestors' great travels and travails. Inspired by those tales, many of those orcs wonder when Gruumsh will call on them to match the heroic deeds of old and if they will prove worthy of his favor. Other orcs are happy to leave old tales in the past and find their own way.
+
+**Creature Type:** Humanoid
+
+**Size:** Medium (about 6–7 feet tall)
+
+**Speed:** 30 feet
+
+As an Orc, you have these special traits.
+
+***Adrenaline Rush.*** You can take the Dash action as a Bonus Action. When you do so, you gain a number of Temporary Hit Points equal to your Proficiency Bonus. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Short or Long Rest.
+
+***Darkvision.*** You have Darkvision with a range of 120 feet.
+
+***Relentless Endurance.*** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
+
+**Source:** Player's Handbook 2024
+
+---
+
+### Ruinbound
+
+The Ruinbound are mutants that can be born to any humanoid species that has contact with the Daelkyr or their minions. A Ruinbound is born with a personal symbiont—an unnatural entity bound to the child. Unlike most symbionts, this entity cannot be separated from its host, and the two are permanently fused. Many Ruinbound have additional disturbing mutations; you can roll on the Ruinbound Mutations table for ideas, or create your own. These secondary mutations are disturbing, but they don't change the rules of how that character is played or grant mechanical benefits. For example, even if a Ruinbound seems to have no eyes, their vision uncannily works as well as any other member of their species, though it defies logic.
+
+Aside from their mutations, Ruinbound share the appearance of their parent species. The Mror Holds have seen a surge of Ruinbound births since the War Below began, and there have always been Ruinbound orcs and humans in the Shadow Marches. Even in these places, however, the Ruinbound are rare and remarkable, and generally don't pass their traits on to their offspring. More information about the Ruinbound can be found in the Mror Holds section of Uncharted Domains.
+
+When making a Ruinbound character, work with your DM to determine the appearance of your Personal Symbiont. It is organic and clearly alien, and when you cast a cantrip with this trait, it should be obvious that the symbiont is the source. A symbiont that casts Mage Hand could be a thin tentacle or an ectoplasmic insect that emerges from your body and performs the action. An eyestalk protruding from your shoulder could grant you Guidance as it studies the situation and telepathically advises you—or it might blast your enemies with a Mind Sliver.
+
+**Creature Type:** Humanoid
+
+**Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
+
+**Speed:** 30 feet
+
+As a Ruinbound, you have these special traits.
+
+**Darkvision.** You have Darkvision with a range of 120 feet.
+
+**Personal Symbiont.** You are bound to an alien entity that is part of your body and can't be removed. Your symbiont possesses a minor supernatural ability, which it can use on your behalf. Choose a cantrip from the following list: Acid Splash, Guidance (self only), Light, Mage Hand, Mind Sliver, Poison Spray, Resistance (self only), Shocking Grasp, Thorn Whip. You can switch to a different cantrip from this list whenever you finish a Long Rest.
+
+Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this species).
+
+**Symbiont Mastery.** You can attune to one magic item that has the Symbiotic Nature property without it counting toward the maximum number of magic items you can attune to. In addition, whenever you finish a Long Rest, you can end your Attunement to a magic item that has the Symbiotic Nature property. When doing so, you can ignore any restrictions that require you be targeted by a Remove Curse spell or similar magic before the symbiont can be removed.
+
+**Unnatural Resilience.** You have Resistance to Poison damage. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
+
+| 1d8 | Mutation |
+| --- | --- |
+| 1 | **Unnatural Hair.** Is your hair an unusual color? Ectoplasmic in nature? Does it move of its own accord? |
+| 2 | **Unusual Skin.** Is your skin transparent? Slick? An unnatural color? |
+| 3 | **Aberrant Eyes.** Are your eyes luminous? Invisible? Do they resemble the eyes of an animal, or are they seemingly absent? |
+| 4 | **Strange Appetites.** Do you prefer your food charred? Do you eat flowers, or can you only eat living things? |
+| 5 | **Living Tattoos.** You appear to have exotic tattoos across your body. They slowly and constantly change, and you have no control over the design. Do they show images or words, or are they incomprehensible? |
+| 6 | **Ageless.** The passage of time affects your appearance differently than others. Do you appear old beyond your years, or look surprisingly young no matter your age? As you grow older, do you look younger? |
+| 7 | **Inexplicable Hearing.** You have no visible ears, yet you can hear clearly. Does sound feel different to you? How do you experience it? |
+| 8 | **Extra Joints.** You have one or more extra joints. Is it just an unusual joint in your fingers, or can you bend your entire leg backward? |
+
+**Source:** Exploring Eberron 2024
+
+---
+
+### Sahuagin
+
+The sahuagin are an ancient species spawned in the ocean depths. With their armored skin and fearsome demeanor, they have long inspired terror in the people of the surface world. They are natural predators with aggressive instincts, kin to the shark and often devotees of the Devourer. But there is nothing innately evil about most sahuagin; in the depths of the Thunder Sea, sahuagin champions battle fiends and aberrations.
+
+Sahuagin are amphibious humanoids with leathery skin, sharp teeth, and webbed hands and feet. They have finlike crests on their heads, which extend and retract in response to their mood. While the majority of sahuagin have gray-green scales, others have scales with dramatic, colorful patterns.
+
+**Creature Type:** Humanoid
+
+**Size:** Medium (about 5–7 feet tall)
+
+**Speed:** 30 feet
+
+As a Sahuagin, you have these special traits.
+
+**Darkvision.** You have Darkvision with a range of 120 feet.
+
+**Swift Swimmer.** You have a Swim speed equal to your Speed.
+
+**Blood Frenzy.** As a Bonus Action, you can enter a blood frenzy for 1 minute. During this time, you have Advantage on attack rolls against any creature that doesn't have all its Hit Points.
+
+You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+**Natural Armor.** You have tough, scaly skin. When you aren't wearing any armor, your base Armor Class equals 12 plus your Dexterity modifier. You can use a Shield and still gain this benefit.
+
+**Limited Amphibiousness.** You can breathe air and underwater, but you need to be submerged at least once every 4 hours to avoid suffocating.
+
+**Source:** Exploring Eberron 2024
+
+---
+
+### Shifter
+
+Shifters—sometimes called "weretouched"—descend from people who contracted full or partial lycanthropy. Humanoids with a bestial aspect, shifters can't change shape fully, but they can enhance their animalistic features temporarily in a process they call "shifting."
+
+Shifters resemble humans in height and build but are typically more lithe and flexible. Their facial features have a bestial cast, often with large eyes and pointed ears; most shifters also possess prominent canine teeth. They grow fur-like hair on nearly every part of their bodies. While a shifter's appearance might remind an onlooker of an animal, the shifter remains clearly identifiable as a Humanoid even when at their most feral.
+
+**Creature Type:** Humanoid
+
+**Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
+
+**Speed:** 30 feet
+
+As a Shifter, you have these special traits.
+
+***Bestial Instincts.*** Channeling the beast within, you gain proficiency in one of the following skills of your choice: Acrobatics, Athletics, Intimidation, or Survival.
+
+***Darkvision.*** You have Darkvision with a range of 60 feet.
+
+***Shifting.*** As a Bonus Action, you can shape-shift to assume a more bestial appearance. This transformation lasts for 1 minute or until you revert to your normal appearance as a Bonus Action. When you shift, you gain Temporary Hit Points equal to 2 times your Proficiency Bonus. You can shift a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+Whenever you shift, you gain the benefit of one of the following options (choose when you select this species):
+
+**Beasthide.** You gain 1d6 additional Temporary Hit Points. While shifted, you have a +1 bonus to your Armor Class.
+
+**Longtooth.** When you shift and as a Bonus Action on your other turns while shifted, you can use your elongated fangs to make an Unarmed Strike. If you hit with this Unarmed Strike and deal damage, you can deal Piercing damage equal to 1d6 plus your Strength modifier, instead of the normal damage of an Unarmed Strike.
+
+**Swiftstride.** While you are shifted, your Speed increases by 10 feet. Additionally, you can move up to 10 feet as a Reaction when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke Opportunity Attack action.
+
+**Wildhunt.** While shifted, you have Advantage on Wisdom checks. Additionally, no creature within 30 feet of you can have Advantage on an attack roll against you unless you have the Incapacitated condition.
+
+**Source:** Eberron: Forge of the Artificer 2024
+
+---
+
+### Tiefling
+
+Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling's fiendish legacy, which comes with the promise of power yet has no effect on the tiefling's moral outlook.
+
+A tiefling chooses whether to embrace or lament their fiendish legacy. The three legacies are described below.
+
+#### Abyssal
+
+The entropy of the Abyss, the chaos of Pandemonium, and the despair of Carceri call to tieflings who have the abyssal legacy. Horns, fur, tusks, and peculiar scents are common physical features of such tieflings, most of whom have the blood of demons coursing through their veins.
+
+#### Chthonic
+
+Tieflings who have the chthonic legacy feel not only the tug of Carceri but also the greed of Gehenna and the gloom of Hades. Some of these tieflings look cadaverous. Others possess the unearthly beauty of a succubus, or they have physical features in common with a night hag, a yugoloth, or some other Neutral Evil fiendish ancestor.
+
+#### Infernal
+
+The infernal legacy connects tieflings not only to Gehenna but also the Nine Hells and the raging battlefields of Acheron. Horns, spines, tails, golden eyes, and a faint odor of sulfur or smoke are common physical features of such tieflings, most of whom trace their ancestry to devils.
+
+**Creature Type:** Humanoid
+
+**Size:** Medium (about 4–7 feet tall) or Small (about 3–4 feet tall), chosen when you select this species
+
+**Speed:** 30 feet
+
+As a Tiefling, you have the following special traits.
+
+***Darkvision.*** You have Darkvision with a range of 60 feet.
+
+***Fiendish Legacy.*** You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Fiendish Legacies table. You gain the level 1 benefit of the chosen legacy.
+
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
+
+***Otherworldly Presence.*** You know the Thaumaturgy cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy trait.
+
+##### Fiendish Legacies
+
+| Legacy | Level 1 | Level 3 | Level 5 |
+| --- | --- | --- | --- |
+| Abyssal | You have Resistance to Poison damage. You also know the Poison Spray cantrip. | Ray of Sickness | Hold Person |
+| Chthonic | You have Resistance to Necrotic damage. You also know the Chill Touch cantrip. | False Life | Ray of Enfeeblement |
+| Infernal | You have Resistance to Fire damage. You also know the Fire Bolt cantrip. | Hellish Rebuke | Darkness |
+
+**Source:** Player's Handbook 2024
+
+---
+
+## Eberron: Forge of the Artificer 2024
+
+---
+
 ### Tiefling (Eberron Variant)
 
 Tieflings are rarely seen in the Five Nations, and are often treated with fear and suspicion when they are. Rather than being directly descended from fiends, the most common tieflings of Eberron are touched by the malefic energies of one of the planes. Because of this, their appearance varies dramatically. Mabaran tieflings are reminiscent of incubi and succubi, with sinister beauty and small horns and fangs. Shavaran tieflings have scaly skin and horns of steel, while Risian tieflings are coated in frost and have horns of ice. Others don't have horns at all. Dolurrhi tieflings usually have gray skin and pale eyes, with tendrils of whispering mist clinging to their skin. Kythrian tieflings slowly change in appearance, with every aspect changing in time. Such plane-touched tieflings don't pass these traits on to their children; the birth of a tiefling is tied to the flow of planar energies, most often occurring when a child is conceived in a manifest zone at a key point in a plane's coterminous cycle.
@@ -664,6 +917,38 @@ Tieflings are rarely seen in the Five Nations, and are often treated with fear a
 | Shavaran | You have training with Light and Medium armor and with Shields. You also know the Blade Ward cantrip. | Heroism | Spiritual Weapon |
 
 **Source:** Frontiers of Eberron 2024
+
+---
+
+### Warforged
+
+Warforged are mechanical beings built as weapons to fight in the Last War. An unexpected breakthrough produced sentient beings made from wood and metal that nevertheless can feel pain and emotion.
+
+Warforged comprise a blend of organic and inorganic materials. Rootlike cords infused with alchemical fluids serve as their muscles, wrapped around a framework of steel, darkwood, or stone. Armored plates form a protective outer shell and reinforce joints. The more a warforged cultivates their individuality, the more likely they are to modify their body, seeking out an artificer to customize the look of their face, limbs, and plating.
+
+**Creature Type:** Construct
+
+**Size:** Medium (about 6–8 feet tall) or Small (about 3–4 feet tall), chosen when you select this species
+
+**Speed:** 30 feet
+
+As a Warforged, you have these special traits.
+
+***Construct Resilience.*** You have Resistance to Poison damage. You also have Advantage on saving throws to avoid or end the Poisoned condition.
+
+***Integrated Protection.*** You gain a +1 bonus to your Armor Class. In addition, armor you have donned can't be removed against your will while you're alive.
+
+***Sentry's Rest.*** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 6 hours if you spend those hours in an inactive, motionless state. During this time, you appear inert but remain conscious.
+
+***Specialized Design.*** You gain one skill proficiency and one tool proficiency of your choice.
+
+***Tireless.*** You don't gain Exhaustion levels from dehydration, malnutrition, or suffocation.
+
+**Source:** Eberron: Forge of the Artificer 2024
+
+---
+
+## Frontiers of Eberron 2024
 
 ---
 
@@ -750,250 +1035,3 @@ As a Worg, you have the following special traits.
 ---
 
 ## Exploring Eberron 2024
-
-### Aasimar (Eberron Variants)
-
-These rare humanoids have no culture of their own. Rather, aasimar are individuals shaped by exposure to divine forces or the energies of the planes, as discussed in Faiths of Eberron. The following variants reflect two unusual forms of Aasimar that can be found in Eberron: the Fernian Aasimar, infused with otherworldly fire, and the Mabaran Aasimar, bound to shadows and despair.
-
-*Base Aasimar traits are as written in the Player's Handbook 2024. Apply the relevant variant modifications below.*
-
-#### Variant: Fernian Aasimar
-
-If your Aasimar's powers flow from Fernia, you are infused with otherworldly fire. When you use Celestial Revelation, your Heavenly Wings are formed from flame; your Necrotic Shroud is a terrifying aura of ghostly fire; and when you use Inner Radiance, enemies take Fire damage rather than Radiant damage. In addition, replace the Celestial Resistance and Light Bearer traits of the standard Aasimar with the following traits.
-
-**Fernian Resistance.** You have Resistance to Fire damage and Necrotic damage.
-
-**Flame Bearer.** You know the Produce Flame cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose the ability when you select this species).
-
-#### Variant: Mabaran Aasimar
-
-If your Aasimar's powers are drawn from Mabar, you are bound to shadows and despair. Replace the Light Bearer trait of the standard Aasimar with Herald of Death, and replace the Inner Radiance option of Celestial Revelation with Inner Darkness.
-
-**Herald of Death.** You know the Toll The Dead cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose the ability when you select this species).
-
-**Inner Darkness.** You consume light and life, creating a shroud of shadows. For the duration, you reduce Bright Light in a 20-foot radius to Dim Light, and at the end of each of your turns, each creature within 10 feet of you takes Necrotic damage equal to your Proficiency Bonus.
-
-**Source:** Exploring Eberron 2024
-
----
-
-### Dhakaani Ghaal'dar (Hobgoblin)
-
-Dhakaani hobgoblins are known as ghaal'dar, "mighty folk"—not to be confused with the Ghaal'dar tribes that dominate Darguun. The ghaal'dar are soldiers, scholars, and leaders, valued for their versatility and their vision.
-
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 5–6 feet tall)
-
-**Speed:** 30 feet
-
-As a Dhakaani Ghaal'dar, you have these special traits.
-
-**Darkvision.** You have Darkvision with a range of 60 feet.
-
-**Discipline.** You have Advantage on saving throws you make to avoid or end the Charmed condition.
-
-**Strength in Unity.** If you fail a D20 Test, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a Short or Long Rest.
-
-**War and Peace.** You gain proficiency in two of the following skills: Athletics, History, Intimidation, Performance.
-
-**Source:** Exploring Eberron 2024
-
----
-
-### Dhakaani Golin'dar (Goblin)
-
-Dhakaani goblins are known as golin'dar, "quick folk." They reproduce and mature faster than other dar, and form the bulk of the labor force in Dhakaani society. This includes menial labor, agriculture, food preparation, and skilled craftwork. Though ghaal'dar are the primary smiths of weapons and armor, most other manufacturing is done by the golin'dar. While this work may be less dramatic than the martial paths of the ghaal'dar and guul'dar, it's vital to survival and the golin'dar are respected for their contributions. Other golin'dar take a different path, that of the Khesh'dar, the Silent Folk who live in the shadows of the empire.
-
-**Creature Type:** Humanoid
-
-**Size:** Small (about 3–4 feet tall)
-
-**Speed:** 35 feet
-
-As a Dhakaani Golin'dar, you have these special traits.
-
-**Darkvision.** You have Darkvision with a range of 60 feet.
-
-**Discipline.** You have Advantage on saving throws you make to avoid or end the Charmed condition.
-
-**Naturally Stealthy.** You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
-
-**Nimbleness.** You can move through the space of any creature that is a size larger than you, but you can't stop in the same space.
-
-**Source:** Exploring Eberron 2024
-
----
-
-### Dhakaani Guul'dar (Bugbear)
-
-Dhakaani bugbears are known as guul'dar, "strong folk," and are celebrated for their strength and courage. They help perform heavy labor where strength is required, but most yearn to prove their mettle on the battlefield, risking their lives to earn the glory known as atcha.
-
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 6–8 feet tall)
-
-**Speed:** 30 feet
-
-As a Dhakaani Guul'dar, you have these special traits.
-
-**Darkvision.** You have Darkvision with a range of 60 feet.
-
-**Brave.** You have Advantage on saving throws you make to avoid or end the Frightened condition.
-
-**Long-Limbed.** When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
-
-**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
-
-**Stand by the Strong.** When an ally within 30 feet that can see you fails a saving throw to avoid or end the Frightened condition, you can use your Reaction to allow them to reroll the saving throw.
-
-**Source:** Exploring Eberron 2024
-
----
-
-### Gnoll (Exploring Eberron)
-
-Fierce and feral, the first gnolls were hyenas infused with malefic power by archfiends of war and the wild. They were created as cruel soldiers to serve in the endless conflicts of fiends, but over the course of countless generations a number of gnoll clans broke their ties to their demon overlords. These free gnolls are fiercely loyal to their pack and their clan, and serve as a stabilizing force within Droaam.
-
-Gnolls that are bound to the overlords are vicious and wild. Those who have escaped this bondage still have a fiendish spark within, but they contain and control this power. Some learn to wield it as Warlocks. Others known as hwyri train to fight demons and other supernatural threats. Even free gnolls can be aggressive, but they are gifted hunters and fiercely loyal to those they choose as family.
-
-**Creature Type:** Humanoid.
-
-**Size:** Medium (about 7–8 feet tall)
-
-**Speed:** 30 feet
-
-As a Gnoll, you have these special traits.
-
-**Darkvision.** You have Darkvision with a range of 60 feet.
-
-**Bite.** Your teeth are natural weapons, which you can use to make Unarmed Strikes. If you hit with them, you deal Piercing damage equal to 1d6 plus your Strength modifier in place of the normal Bludgeoning damage of your Unarmed Strike.
-
-**Hunter's Senses.** You have proficiency in the Perception, Stealth, or Survival skill.
-
-**Rampage.** When you use your Bite or reduce a creature to 0 Hit Points with an attack, you can take a Bonus Action to move up to half your Speed and make one attack with a weapon or an Unarmed Strike using your Bite.
-
-**Source:** Exploring Eberron 2024
-
----
-
-### Jhorgun'taal (Half-orc)
-
-Long ago, the orcs of the Shadow Marches welcomed human refugees from Sarlona. The two species have lived together in harmony for centuries. Most humans or orcs from the Marches have some degree of mixed lineage, even though they may use the game statistics of the species they outwardly resemble. However, the union of human and orc can produce children who have physical traits of both parent species. In the Shadow Marches, such people are called Jhorgun'taal, "children of two bloods"; they are celebrated as a symbol of the bond between orcs and humans. Jhorgun'taal blend the endurance of their orc ancestors with the flexibility of humanity.
-
-As House Tharashk has spread across Khorvaire, Jhorgun'taal are often found as inquisitives, bounty hunters, and prospectors. The Mark of Finding can manifest on humans, orcs, or Jhorgun'taal who can trace their ancestry to the Shadow Marches.
-
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 5–7 feet tall)
-
-**Speed:** 30 feet
-
-As a Jhorgun'taal, you have these special traits.
-
-**Darkvision.** You have Darkvision with a range of 60 feet.
-
-**Relentless Endurance.** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
-
-**Versatile.** You gain an Origin feat of your choice.
-
-**Source:** Exploring Eberron 2024
-
----
-
-### Kalamer Landwalker (Merfolk)
-
-The Kalamer merfolk dwell in the Thunder Sea, and most spend their entire lives beneath the waves. However, a few are called to walk above the water. Those that embrace this path may become Kalamer Landwalkers, gaining the magical ability to transform their fish-tail into a pair of humanoid legs. Landwalkers are exceptionally rare, and few surface-dwellers have ever seen one. Some Kalamer Landwalkers feel a call to accomplish a specific goal, fulfilling a mission for the good of the world. Others are driven purely by curiosity, and yearn to see new places and find wondrous things.
-
-**Creature Type:** Elemental
-
-**Size:** Medium (about 5–7 feet tall)
-
-**Speed:** 10 feet, Swim 40 feet
-
-As a Kalamer Landwalker, you have these special traits.
-
-**Darkvision.** You have Darkvision with a range of 60 feet.
-
-**Amphibious.** You can breathe air and water.
-
-**Blessing of the Sea.** You have two forms: your natural merfolk form and that of a landwalker. As a Magic action, you can shape-shift to change from your merfolk form to your landwalker form. While in your landwalker form, your fish-like fluke splits into 2 legs. Your Speed increases by 20 feet, but your Swim Speed is reduced to 0.
-
-You stay in the new form until you take a Magic action to revert to your merfolk form.
-
-**Karakala Lore.** You have proficiency in the Nature, Performance, or Survival skill.
-
-**Swift Swimmer.** You have a Swim speed equal to your Speed.
-
-**Source:** Exploring Eberron 2024
-
----
-
-### Ruinbound
-
-The Ruinbound are mutants that can be born to any humanoid species that has contact with the Daelkyr or their minions. A Ruinbound is born with a personal symbiont—an unnatural entity bound to the child. Unlike most symbionts, this entity cannot be separated from its host, and the two are permanently fused. Many Ruinbound have additional disturbing mutations; you can roll on the Ruinbound Mutations table for ideas, or create your own. These secondary mutations are disturbing, but they don't change the rules of how that character is played or grant mechanical benefits. For example, even if a Ruinbound seems to have no eyes, their vision uncannily works as well as any other member of their species, though it defies logic.
-
-Aside from their mutations, Ruinbound share the appearance of their parent species. The Mror Holds have seen a surge of Ruinbound births since the War Below began, and there have always been Ruinbound orcs and humans in the Shadow Marches. Even in these places, however, the Ruinbound are rare and remarkable, and generally don't pass their traits on to their offspring. More information about the Ruinbound can be found in the Mror Holds section of Uncharted Domains.
-
-When making a Ruinbound character, work with your DM to determine the appearance of your Personal Symbiont. It is organic and clearly alien, and when you cast a cantrip with this trait, it should be obvious that the symbiont is the source. A symbiont that casts Mage Hand could be a thin tentacle or an ectoplasmic insect that emerges from your body and performs the action. An eyestalk protruding from your shoulder could grant you Guidance as it studies the situation and telepathically advises you—or it might blast your enemies with a Mind Sliver.
-
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species
-
-**Speed:** 30 feet
-
-As a Ruinbound, you have these special traits.
-
-**Darkvision.** You have Darkvision with a range of 120 feet.
-
-**Personal Symbiont.** You are bound to an alien entity that is part of your body and can't be removed. Your symbiont possesses a minor supernatural ability, which it can use on your behalf. Choose a cantrip from the following list: Acid Splash, Guidance (self only), Light, Mage Hand, Mind Sliver, Poison Spray, Resistance (self only), Shocking Grasp, Thorn Whip. You can switch to a different cantrip from this list whenever you finish a Long Rest.
-
-Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this species).
-
-**Symbiont Mastery.** You can attune to one magic item that has the Symbiotic Nature property without it counting toward the maximum number of magic items you can attune to. In addition, whenever you finish a Long Rest, you can end your Attunement to a magic item that has the Symbiotic Nature property. When doing so, you can ignore any restrictions that require you be targeted by a Remove Curse spell or similar magic before the symbiont can be removed.
-
-**Unnatural Resilience.** You have Resistance to Poison damage. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
-
-| 1d8 | Mutation |
-| --- | --- |
-| 1 | **Unnatural Hair.** Is your hair an unusual color? Ectoplasmic in nature? Does it move of its own accord? |
-| 2 | **Unusual Skin.** Is your skin transparent? Slick? An unnatural color? |
-| 3 | **Aberrant Eyes.** Are your eyes luminous? Invisible? Do they resemble the eyes of an animal, or are they seemingly absent? |
-| 4 | **Strange Appetites.** Do you prefer your food charred? Do you eat flowers, or can you only eat living things? |
-| 5 | **Living Tattoos.** You appear to have exotic tattoos across your body. They slowly and constantly change, and you have no control over the design. Do they show images or words, or are they incomprehensible? |
-| 6 | **Ageless.** The passage of time affects your appearance differently than others. Do you appear old beyond your years, or look surprisingly young no matter your age? As you grow older, do you look younger? |
-| 7 | **Inexplicable Hearing.** You have no visible ears, yet you can hear clearly. Does sound feel different to you? How do you experience it? |
-| 8 | **Extra Joints.** You have one or more extra joints. Is it just an unusual joint in your fingers, or can you bend your entire leg backward? |
-
-**Source:** Exploring Eberron 2024
-
----
-
-### Sahuagin
-
-The sahuagin are an ancient species spawned in the ocean depths. With their armored skin and fearsome demeanor, they have long inspired terror in the people of the surface world. They are natural predators with aggressive instincts, kin to the shark and often devotees of the Devourer. But there is nothing innately evil about most sahuagin; in the depths of the Thunder Sea, sahuagin champions battle fiends and aberrations.
-
-Sahuagin are amphibious humanoids with leathery skin, sharp teeth, and webbed hands and feet. They have finlike crests on their heads, which extend and retract in response to their mood. While the majority of sahuagin have gray-green scales, others have scales with dramatic, colorful patterns.
-
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 5–7 feet tall)
-
-**Speed:** 30 feet
-
-As a Sahuagin, you have these special traits.
-
-**Darkvision.** You have Darkvision with a range of 120 feet.
-
-**Swift Swimmer.** You have a Swim speed equal to your Speed.
-
-**Blood Frenzy.** As a Bonus Action, you can enter a blood frenzy for 1 minute. During this time, you have Advantage on attack rolls against any creature that doesn't have all its Hit Points.
-
-You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
-
-**Natural Armor.** You have tough, scaly skin. When you aren't wearing any armor, your base Armor Class equals 12 plus your Dexterity modifier. You can use a Shield and still gain this benefit.
-
-**Limited Amphibiousness.** You can breathe air and underwater, but you need to be submerged at least once every 4 hours to avoid suffocating.
-
-**Source:** Exploring Eberron 2024
