@@ -2,7 +2,7 @@
 
 A Magical Crafter and an Inventor of Wonders
 
-## Core Artificer Traits
+### Core Artificer Traits
 
 | | |
 | --- | --- |
@@ -17,23 +17,23 @@ A Magical Crafter and an Inventor of Wonders
 
 Masters of invention, Artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in this chapter.
 
-## Becoming an Artificer...
+### Becoming an Artificer...
 
-### As a Level 1 Character
+#### As a Level 1 Character
 
 -   Gain all the traits in the Core Artificer Traits table.
 -   Gain the Artificer’s level 1 features, which are listed in the Artificer Features table.
 
-### As a Multiclass Character
+#### As a Multiclass Character
 
 -   Gain the following traits from the Core Artificer Traits table: Hit Point Die, proficiency with Tinker’s Tools, proficiency in one skill of your choice from the Artificer’s skill list, and training with Light and Medium armor and Shields.
 -   Gain the Artificer’s level 1 features, which are listed in the Artificer Features table. See the multiclassing rules in the *Player’s Handbook* to determine your available spell slots, adding half your Artificer levels (round up).
 
-## Artificer Class Features
+### Artificer Class Features
 
 As an Artificer, you gain the following class features when you reach the specified Artificer levels. These features are listed on the Artificer Features table.
 
-### Artificer Features
+#### Artificer Features
 
 | Level | Proficiency Bonus | Class Features | Plans Known | Magic Items | Cantrips | Prepared Spells | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ As an Artificer, you gain the following class features when you reach the specif
 | 19 | +6 | Epic Boon | 8 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 | 20 | +6 | Soul of Artifice | 8 | 6 | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
 
-### Level 1: Spellcasting
+#### Level 1: Spellcasting
 
 You have learned how to channel magical energy through objects. See the *Player’s Handbook* for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the Artificer spell list later in the class’s description.
 
@@ -82,7 +82,7 @@ If another Artificer feature gives you spells that you always have prepared, tho
 
 ***Spellcasting Ability.*** Intelligence is your spellcasting ability for your Artificer spells.
 
-### Level 1: Tinker’s Magic
+#### Level 1: Tinker’s Magic
 
 You know the Mending cantrip.
 
@@ -106,7 +106,7 @@ See the rules for the item in the *Player’s Handbook*. The item lasts until yo
 
 You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-### Level 2: Replicate Magic Item
+#### Level 2: Replicate Magic Item
 
 You have learned arcane plans that you use to make magic items.
 
@@ -134,7 +134,7 @@ If an item that you created with this feature is a container, such as a Bag of H
 > 
 > When an Artificer crafts a magic item using the normal rules in the *Dungeon Master’s Guide*, the character gains no special connection to that item. Class features that refer to items created by your Replicate Magic Item feature don’t apply to items you craft by other means.
 
-#### Magic Item Plans (Artificer Level 2+)
+##### Magic Item Plans (Artificer Level 2+)
 
 | Magic Item Plan | Attunement |
 | --- | --- |
@@ -157,7 +157,7 @@ If an item that you created with this feature is a container, such as a Bag of H
 | \*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan. |
 | † See the appendix. |
 
-#### Magic Item Plans (Artificer Level 6+)
+##### Magic Item Plans (Artificer Level 6+)
 
  
 | Magic Item Plan | Attunement |
@@ -186,7 +186,7 @@ If an item that you created with this feature is a container, such as a Bag of H
 | Weapon of Warning | Yes |
 | † See the appendix. |
 
-#### Magic Item Plans (Artificer Level 10+)
+##### Magic Item Plans (Artificer Level 10+)
 
 | Magic Item Plan | Attunement |
 | --- | --- |
@@ -203,7 +203,7 @@ If an item that you created with this feature is a container, such as a Bag of H
 | Wraps of Unarmed Power, +2 | No |
 | \*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan. |
 
-#### Magic Item Plans (Artificer Level 14+)
+##### Magic Item Plans (Artificer Level 14+)
 
 | Magic Item Plan | Attunement |
 | --- | --- |
@@ -216,15 +216,15 @@ If an item that you created with this feature is a container, such as a Bag of H
 | Ring of the Ram | Yes |
 | \*You can learn this option multiple times and must select a different item each time; each item selected counts as a different plan. |
 
-### Level 3: Artificer Subclass
+#### Level 3: Artificer Subclass
 
 You gain an Artificer subclass of your choice. The Alchemist, Armorer, Artillerist, Battle Smith, and Cartographer subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass’s features that are of your Artificer level or lower.
 
-### Level 4: Ability Score Improvement
+#### Level 4: Ability Score Improvement
 
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, and 16.
 
-### Level 6: Magic Item Tinker
+#### Level 6: Magic Item Tinker
 
 Your Replicate Magic Item feature gains the following options.
 
@@ -234,17 +234,17 @@ Your Replicate Magic Item feature gains the following options.
 
 ***Transmute Magic Item.*** As a Magic action, you can touch one magic item within 5 feet of yourself that you created with Replicate Magic Item and transform it into a different magic item. The resulting item must be based on a magic item plan you know. Once you use this feature, you can’t do so again until you finish a Long Rest.
 
-### Level 7: Flash of Genius
+#### Level 7: Flash of Genius
 
 When you or a creature you can see within 30 feet of you fails an ability check or a saving throw, you can take a Reaction to add a bonus to the roll, potentially causing it to succeed. The bonus equals your Intelligence modifier (minimum of +1).
 
 You can take this Reaction a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
 
-### Level 10: Magic Item Adept
+#### Level 10: Magic Item Adept
 
 You can now attune to up to four magic items at once.
 
-### Level 11: Spell-Storing Item
+#### Level 11: Spell-Storing Item
 
 Whenever you finish a Long Rest, you can touch one Simple or Martial weapon or one item that you can use as a Spellcasting Focus, and you store a spell in it, choosing a level 1, 2, or 3 Artificer spell that has a casting time of an action and doesn’t require a Material component that is consumed by the spell (you needn’t have the spell prepared).
 
@@ -252,7 +252,7 @@ While holding the object, a creature can take a Magic action to produce the spel
 
 The spell stays in the object until it’s been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
-### Level 14: Advanced Artifice
+#### Level 14: Advanced Artifice
 
 You gain the following benefits.
 
@@ -260,15 +260,15 @@ You gain the following benefits.
 
 ***Refreshed Genius.*** When you finish a Short Rest, you regain one expended use of your Flash of Genius feature.
 
-### Level 18: Magic Item Master
+#### Level 18: Magic Item Master
 
 You can now attune to up to six magic items at once.
 
-### Level 19: Epic Boon
+#### Level 19: Epic Boon
 
 You gain an Epic Boon feat or another feat of your choice for which you qualify. Boon of Energy Resistance is recommended.
 
-### Level 20: Soul of Artifice
+#### Level 20: Soul of Artifice
 
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.
 
@@ -961,7 +961,7 @@ In addition, you ignore all class, species, spell, and level requirements on att
 
 ---
 
-## Variant Capstones
+### Variant Capstones
 
 The Soul of Artifice feature an Artificer gains at 20th level allows them to cheat death—sacrificing their creations to regain Hit Points when they drop to 0 Hit Points—and to regain uses of Flash of Genius after completing a Short Rest. While these are useful, they are also passive abilities that don’t capture the flavor of a particular subclass. With the DM’s permission, an Artificer who reaches level 20 can choose an alternative feature associated with their subclass instead of Soul of Artifice. This section presents variant capstones for the two subclasses introduced in this book, as well as the Alchemist, Armorer, Artillerist, Battle Smith, and Cartographer.
 
