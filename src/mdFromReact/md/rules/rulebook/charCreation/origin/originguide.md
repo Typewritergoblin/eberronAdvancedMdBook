@@ -48,7 +48,7 @@ Your background represents the occupation, environment, or station that defined 
 
 > This campaign uses the **Community Array** (17 : 15 : 13 : 13 : 11 : 9) as the base. Ability scores are uncapped and may exceed 20 through other advancement. See [Ability Scores](./abilityScores.md) for full details.
 
-**Feat.** Your background grants one Origin feat, representing a foundational talent or training from your earlier life. Origin feats are described in the [Feats](../feats.md) chapter.
+**Feat.** Your background grants one Origin feat, representing a foundational talent or training from your earlier life. Origin feats are described in the [Feats](../feats/feats.md) chapter.
 
 **Skill Proficiencies.** Each background grants proficiency in two skills drawn from its narrative. Skill proficiency adds your Proficiency Bonus to relevant ability checks. See [Skills and Specializations](../skillsAndSpecializations.md) for full skill definitions, including the Eberron-specific skills Academics, Channel, Commune, and Culture.
 

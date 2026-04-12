@@ -8,7 +8,7 @@
     - [Origin Guide](./mdFromReact/md/rules/rulebook/charCreation/origin/originguide.md)
         - [Species](./mdFromReact/md/rules/rulebook/charCreation/origin/species.md)
         - [Backgrounds](./mdFromReact/md/rules/rulebook/charCreation/origin/backgrounds.md)
-        - [Culture Skills](./mdFromReact/md/rules/rulebook/charCreation/origin/culture.md)
+        - [Culture](./mdFromReact/md/rules/rulebook/charCreation/origin/culture.md)
         - [Languages](./mdFromReact/md/rules/rulebook/charCreation/origin/languages.md)
     - [Ability Scores](./mdFromReact/md/rules/rulebook/charCreation/origin/abilityScores.md)
     - [Tool Proficiencies](./mdFromReact/md/rules/rulebook/charCreation/origin/toolsProficiency.md)
