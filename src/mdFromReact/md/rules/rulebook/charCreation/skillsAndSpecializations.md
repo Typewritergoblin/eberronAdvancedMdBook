@@ -1,4 +1,6 @@
-# Skills and Specializations
+# Skills 
+
+Each ability covers a broad range of possible actions. Skills represent training that a character or a monster has in particular aspects of each ability. These are the available skills:
 
 | | | |
 |---|---|---|
@@ -13,8 +15,9 @@
 
 ---
 
-## Skills 
-Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual’s proficiency in a skill demonstrates a focus on that aspect. The table below defines the defined skills.
+## Skills Description
+
+The table below contains the ability typically tied to each skill, as well as the description and common uses for these skills. At the DM's discretion, different abilities may be substituted for a skill check. 
 
 | Skill | Ability | Definition | Typical Uses |
 |-------|---------|------------|--------------|
