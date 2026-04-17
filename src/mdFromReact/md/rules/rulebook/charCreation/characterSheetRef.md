@@ -26,7 +26,7 @@ Your class defines what your character *does* — their training, talents, and r
 
 **Record on your sheet:** Class name, Hit Die, armor training, and proficiencies from your class.
 
-> **Level 0:** Before your first class level, your starting HP equals your **Constitution score**. Once you take Level 1, HP advances normally using your class Hit Die.
+> **Level 0:** Before your first class level, your starting HP equals your **Constitution score**. Once you take Level 1, HP advances normally using your class Hit Die. To play a Level 0 character, skip class selection and go to Step 2 to select your Origin and Culture.
 
 ---
 
@@ -120,5 +120,3 @@ Give your character a name, appearance, and personality. Consider:
 - What did you do before you became an adventurer?
 - What drove you to take up this life?
 - How do your species, background, and culture intersect in how you see the world?
-
-Your culture especially shapes your worldview — a Karrnathi soldier and a Zilargo gnome diplomat may have taken identical class and background choices and still be profoundly different people.

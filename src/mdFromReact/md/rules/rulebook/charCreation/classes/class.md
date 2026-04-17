@@ -6,7 +6,7 @@ Adventurers in Khorvaire are defined as much by what they *do* as by where they 
 
 ## Level 0 and Starting Hit Points
 
-Before any class is chosen, every character has a **Level 0** — the moment before they became an adventurer. At Level 0, your Hit Points equal your **Constitution score** (not your modifier — the score itself). This represents a capable but untempered individual.
+Before any class is chosen, every character has a **Level 0** — the moment before they became an adventurer. At Level 0, your Hit Points equal your **Constitution score** (not your modifier — the score itself). This represents an untrained individual.
 
 Once you take your first class level, your Hit Points advance as normal for that class using its Hit Point Die.
 
