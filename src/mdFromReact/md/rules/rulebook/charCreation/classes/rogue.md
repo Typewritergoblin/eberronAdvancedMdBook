@@ -158,7 +158,7 @@ You have a marvelous knack for succeeding when you need to. If you fail a D20 Te
 
 Once you use this feature, you can’t use it again until you finish a Short or Long Rest.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -235,7 +235,7 @@ Immediately after a creature casts a spell that targets you or includes you in i
 
 Once you steal a spell with this feature, you can’t use this feature again until you finish a Long Rest.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -273,7 +273,7 @@ When you use the Poison option of your Cunning Strike, the target also takes 2d6
 
 When you hit with your Sneak Attack on the first round of a combat, the target must succeed on a Constitution saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus), or the attack’s damage is doubled against the target.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -344,7 +344,7 @@ You can sweep your Psychic Blades through a creature’s mind. When you use your
 
 Once you use this feature, you can’t do so again until you finish a Long Rest unless you expend three Psionic Energy Dice (no action required) to restore your use of it.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -390,7 +390,7 @@ You’ve learned how to maximize use of magic items, granting you the following 
 
 You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal Initiative and your second turn at your Initiative minus 10.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

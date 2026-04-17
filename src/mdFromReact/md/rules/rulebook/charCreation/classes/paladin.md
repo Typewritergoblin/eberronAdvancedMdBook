@@ -249,7 +249,7 @@ This section presents the Paladin spell list. The spells are organized by spell 
 | Raise Dead | Necromancy | M |
 | Summon Celestial | Conjuration | C, M |
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -309,7 +309,7 @@ As a Bonus Action, you can imbue your Aura of Protection with holy power, granti
 
 ***Sunlight.*** The aura is filled with Bright Light that is sunlight.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -369,7 +369,7 @@ You can empower yourself with the legends—whether true or exaggerated—of you
 
 ***Unerring Strike.*** Once on each of your turns when you make an attack roll with a weapon and miss, you can cause that attack to hit instead.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -423,7 +423,7 @@ As a Bonus Action, you can imbue your Aura of Protection with primal power, gran
 
 ***Swift Spells.*** Whenever you cast a spell that has a casting time of an action, you can cast it using a Bonus Action instead.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -475,7 +475,7 @@ As a Bonus Action, you gain the benefits below for 10 minutes or until you end t
 
 ***Frightful Aura.*** Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. Attack rolls against the Frightened creature have Advantage.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

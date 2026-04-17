@@ -13,7 +13,7 @@
 - [Elf](#elf)
 - [Gargoyle](#gargoyle)
 - [Gnoll (Exploring Eberron)](#gnoll-exploring-eberron)
-- [Gnoll (Frontiers of Eberron)](#gnoll-frontiers-of-eberron)
+- [Gnoll ](#gnoll-frontiers-of-eberron)
 - [Gnome](#gnome)
 - [Goliath](#goliath)
 - [Halfling](#halfling)
@@ -31,7 +31,7 @@
 - [Tiefling](#tiefling)
 - [Tiefling (Eberron Variant)](#tiefling-eberron-variant)
 - [Warforged](#warforged)
-- [Warforged (Frontiers of Eberron)](#warforged-frontiers-of-eberron)
+- [Warforged ](#warforged-frontiers-of-eberron)
 - [Worg](#worg)
 
 ---
@@ -70,7 +70,7 @@ Here are the transformation options:
 
 **Necrotic Shroud.** Your eyes briefly become pools of darkness, and flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you must succeed on a Charisma saving throw (DC 8 plus your Charisma modifier and Proficiency Bonus) or have the Frightened condition until the end of your next turn.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -96,7 +96,7 @@ If your Aasimar's powers are drawn from Mabar, you are bound to shadows and desp
 
 **Inner Darkness.** You consume light and life, creating a shroud of shadows. For the duration, you reduce Bright Light in a 20-foot radius to Dim Light, and at the end of each of your turns, each creature within 10 feet of you takes Necrotic damage equal to your Proficiency Bonus.
 
-**Source:** Exploring Eberron 2024
+
 
 ---
 
@@ -126,7 +126,7 @@ While shape-shifted with this trait, you have Advantage on Charisma checks.
 
 You stay in the new form until you take an action to revert to your true form.
 
-**Source:** Eberron: Forge of the Artificer 2024
+
 
 ---
 
@@ -150,7 +150,7 @@ As a Dhakaani Ghaal'dar, you have these special traits.
 
 **War and Peace.** You gain proficiency in two of the following skills: Athletics, History, Intimidation, Performance.
 
-**Source:** Exploring Eberron 2024
+
 
 ---
 
@@ -174,7 +174,7 @@ As a Dhakaani Golin'dar, you have these special traits.
 
 **Nimbleness.** You can move through the space of any creature that is a size larger than you, but you can't stop in the same space.
 
-**Source:** Exploring Eberron 2024
+
 
 ---
 
@@ -200,7 +200,6 @@ As a Dhakaani Guul'dar, you have these special traits.
 
 **Stand by the Strong.** When an ally within 30 feet that can see you fails a saving throw to avoid or end the Frightened condition, you can use your Reaction to allow them to reroll the saving throw.
 
-**Source:** Exploring Eberron 2024
 
 ---
 
@@ -243,7 +242,7 @@ As a Dragonborn, you have these special traits.
 
 ***Draconic Flight.*** When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a Long Rest.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -271,7 +270,7 @@ As a Dwarf, you have these special traits.
 
 ***Stonecunning.*** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -325,7 +324,7 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 | High Elf | You know the Prestidigitation cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | Detect Magic | Misty Step |
 | Wood Elf | Your Speed increases to 35 feet. You also know the Druidcraft cantrip. | Longstrider | Pass without Trace |
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -365,7 +364,7 @@ As a Gargoyle, you have these special traits.
 
 ***Stoneskin.*** Your thick stone hide provides you with natural armor. While you aren't wearing armor, your base Armor Class equals 13 plus your Dexterity modifier. You can use a Shield and still gain this benefit.
 
-**Source:** Frontiers of Eberron 2024
+
 
 ---
 
@@ -391,33 +390,8 @@ As a Gnoll, you have these special traits.
 
 **Rampage.** When you use your Bite or reduce a creature to 0 Hit Points with an attack, you can take a Bonus Action to move up to half your Speed and make one attack with a weapon or an Unarmed Strike using your Bite.
 
-**Source:** Exploring Eberron 2024
 
----
 
-### Gnoll (Frontiers of Eberron)
-
-Fierce and feral, the first gnolls were hyenas infused with malefic power by archfiends of war and the wild. They were created as cruel soldiers to serve in the endless conflicts of fiends, but over the course of countless generations a number of gnoll clans broke their ties to their demon overlords. These free gnolls are fiercely loyal to their pack and their clan, and serve as a stabilizing force within Droaam.
-
-Gnolls that are bound to the overlords are vicious and wild. Those who have escaped this bondage still have a fiendish spark within, but they contain and control this power. Some learn to wield it as Warlocks. Others known as hwyri train to fight demons and other supernatural threats. Even free gnolls can be aggressive, but they are gifted hunters and fiercely loyal to those they choose as family.
-
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 7–8 feet tall)
-
-**Speed:** 30 feet
-
-As a Gnoll, you have these special traits.
-
-***Darkvision.*** You have Darkvision with a range of 60 feet.
-
-***Bite.*** Your teeth are natural weapons, which you can use to make Unarmed Strikes. If you hit with them, you deal Piercing damage equal to 1d4 plus your Strength modifier in place of the normal Bludgeoning damage of your Unarmed Strike.
-
-***Hunter's Senses.*** You have proficiency in the Perception, Stealth, or Survival skill.
-
-***Rampage.*** When you use your Bite or reduce a creature to 0 Hit Points with an attack, you can use a Bonus Action to move up to half your Speed and make one attack with a weapon or an Unarmed Strike using your Bite.
-
-**Source:** Frontiers of Eberron 2024
 
 ---
 
@@ -445,7 +419,7 @@ As a Gnome, you have these special traits.
 
 **Rock Gnome.** You know the Mending and Prestidigitation cantrips. In addition, you can spend 10 minutes casting *Prestidigitation* to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from *Prestidigitation*; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell's ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn't do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -481,7 +455,7 @@ As a Goliath, you have these special traits.
 
 ***Powerful Build.*** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -511,7 +485,7 @@ As a Halfling, you have these special traits.
 
 ***Naturally Stealthy.*** You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -545,7 +519,7 @@ As a Harpy, you have these special traits.
 | 4 | Charm Monster |
 | 5 | Dominate Person |
 
-**Source:** Frontiers of Eberron 2024
+
 
 ---
 
@@ -569,7 +543,7 @@ As a Human, you have these special traits.
 
 ***Versatile.*** You gain an Origin feat of your choice (see chapter 5). Skilled is recommended.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -593,7 +567,7 @@ As a Jhorgun'taal, you have these special traits.
 
 **Versatile.** You gain an Origin feat of your choice.
 
-**Source:** Exploring Eberron 2024
+
 
 ---
 
@@ -621,7 +595,7 @@ You stay in the new form until you take a Magic action to revert to your merfolk
 
 **Swift Swimmer.** You have a Swim speed equal to your Speed.
 
-**Source:** Exploring Eberron 2024
+
 
 ---
 
@@ -647,7 +621,7 @@ As a Kalashtar, you have these special traits.
 
 ***Severed from Dreams.*** You can't be the target of the Dream spell. In addition, when you finish a Long Rest, you gain proficiency in one skill of your choice. This proficiency lasts until you finish another Long Rest.
 
-**Source:** Eberron: Forge of the Artificer 2024
+
 
 ---
 
@@ -675,7 +649,7 @@ As a Khoravar, you have these special traits.
 
 ***Skill Versatility.*** You gain proficiency in one skill or with one tool of your choice. Whenever you finish a Long Rest, you can replace it with another skill or tool proficiency.
 
-**Source:** Eberron: Forge of the Artificer 2024
+
 
 ---
 
@@ -715,7 +689,7 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 | 4 | Stoneskin |
 | 5 | Hold Monster |
 
-**Source:** Frontiers of Eberron 2024
+
 
 ---
 
@@ -739,7 +713,7 @@ As an Orc, you have these special traits.
 
 ***Relentless Endurance.*** When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can't do so again until you finish a Long Rest.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -780,7 +754,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 | 7 | **Inexplicable Hearing.** You have no visible ears, yet you can hear clearly. Does sound feel different to you? How do you experience it? |
 | 8 | **Extra Joints.** You have one or more extra joints. Is it just an unusual joint in your fingers, or can you bend your entire leg backward? |
 
-**Source:** Exploring Eberron 2024
+
 
 ---
 
@@ -810,7 +784,7 @@ You can use this Bonus Action a number of times equal to your Proficiency Bonus,
 
 **Limited Amphibiousness.** You can breathe air and underwater, but you need to be submerged at least once every 4 hours to avoid suffocating.
 
-**Source:** Exploring Eberron 2024
+
 
 ---
 
@@ -844,7 +818,7 @@ Whenever you shift, you gain the benefit of one of the following options (choose
 
 **Wildhunt.** While shifted, you have Advantage on Wisdom checks. Additionally, no creature within 30 feet of you can have Advantage on an attack roll against you unless you have the Incapacitated condition.
 
-**Source:** Eberron: Forge of the Artificer 2024
+
 
 ---
 
@@ -890,13 +864,6 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 | Chthonic | You have Resistance to Necrotic damage. You also know the Chill Touch cantrip. | False Life | Ray of Enfeeblement |
 | Infernal | You have Resistance to Fire damage. You also know the Fire Bolt cantrip. | Hellish Rebuke | Darkness |
 
-**Source:** Player's Handbook 2024
-
----
-
-## Eberron: Forge of the Artificer 2024
-
----
 
 ### Tiefling (Eberron Variant)
 
@@ -915,8 +882,6 @@ Tieflings are rarely seen in the Five Nations, and are often treated with fear a
 | Risian | You have Resistance to Cold damage. You also know the Ray of Frost cantrip. | Armor of Agathys | Hold Person |
 | Sakah | You have Advantage on all Wisdom saving throws against magic. You also know the Mage Hand cantrip. | Disguise Self | Detect Thoughts |
 | Shavaran | You have training with Light and Medium armor and with Shields. You also know the Blade Ward cantrip. | Heroism | Spiritual Weapon |
-
-**Source:** Frontiers of Eberron 2024
 
 ---
 
@@ -944,15 +909,7 @@ As a Warforged, you have these special traits.
 
 ***Tireless.*** You don't gain Exhaustion levels from dehydration, malnutrition, or suffocation.
 
-**Source:** Eberron: Forge of the Artificer 2024
-
----
-
-## Frontiers of Eberron 2024
-
----
-
-### Warforged (Frontiers of Eberron)
+### Warforged 
 
 Warforged are constructed humanoids, designed by skilled artificers and infused with the spark of life. Though they are made of wood and metal, warforged can feel pain and emotion. Built as weapons, they must now find a purpose beyond war. A warforged can be a steadfast ally, a cold-hearted killer, or a visionary in search of meaning.
 
@@ -988,7 +945,7 @@ As a Warforged, you have these special traits.
 
 ***Specialized Design.*** You gain proficiency in one skill and one tool of your choice.
 
-**Source:** Frontiers of Eberron 2024
+
 
 ---
 
@@ -1030,7 +987,7 @@ As a Worg, you have the following special traits.
 
 - Any climb that requires hands is especially difficult for you. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.
 
-**Source:** Frontiers of Eberron 2024
+
 
 ---
 

@@ -373,7 +373,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 | Storm of Vengeance | Conjuration | C |
 | True Resurrection | Necromancy | M |
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -456,7 +456,7 @@ As a Magic action, you can expend a use of your Wild Shape and cause spectral tr
 
 As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet of yourself.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -515,7 +515,7 @@ The power of the moon suffuses you, granting you the following benefits.
 
 ***Shared Moonlight.*** Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -564,7 +564,7 @@ Instead of manifesting the Emanation of Wrath of the Sea around yourself, you ca
 
 In addition, you can manifest the Emanation around both the other creature and yourself if you expend two uses of your Wild Shape instead of one when manifesting it.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -627,7 +627,7 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 
 While in your Starry Form, you become partially incorporeal, giving you Resistance to Bludgeoning, Piercing, and Slashing damage.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

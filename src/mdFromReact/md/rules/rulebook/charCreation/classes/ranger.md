@@ -245,7 +245,7 @@ This section presents the Ranger spell list. The spells are organized by spell l
 | Swift Quiver | Transmutation | C, M |
 | Tree Stride | Conjuration | C |
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -397,7 +397,7 @@ In addition, the first time each turn it hits a creature under the effect of you
 
 When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -462,7 +462,7 @@ You can cast Misty Step without expending a spell slot. You can do so a number o
 
 In addition, whenever you cast *Misty Step*, you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -518,7 +518,7 @@ The Psychic damage of your Dreadful Strike becomes 2d8. In addition, when you us
 
 When a creature makes an attack roll against you, you can take a Reaction to impose Disadvantage on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -556,7 +556,7 @@ Once per turn when you deal damage to a creature marked by your Hunter’s Mark,
 
 When you take damage, you can take a Reaction to give yourself Resistance to that damage and any other damage of the same type until the end of the current turn.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

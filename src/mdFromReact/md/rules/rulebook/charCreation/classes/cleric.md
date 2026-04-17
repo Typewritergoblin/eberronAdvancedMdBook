@@ -316,7 +316,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 | Power Word Heal | Enchantment | — |
 | True Resurrection | Necromancy | M |
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -359,7 +359,7 @@ The healing spells you cast on others heal you as well. Immediately after you ca
 
 When you would normally roll one or more dice to restore Hit Points to a creature with a spell or Channel Divinity, don’t roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -406,7 +406,7 @@ As a Magic action, you cause yourself to emit an aura of sunlight that lasts for
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -457,7 +457,7 @@ The illusion of your Invoke Duplicity has grown more powerful in the following w
 
 ***Healing Illusion.*** When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of Hit Points equal to your Cleric level.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -498,7 +498,7 @@ You can expend a use of your Channel Divinity to cast Shield of Faith or Spiritu
 
 You gain Resistance to Bludgeoning, Piercing, and Slashing damage.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

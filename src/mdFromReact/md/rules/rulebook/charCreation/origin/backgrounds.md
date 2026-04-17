@@ -1,66 +1,29 @@
-# Backgrounds
+﻿# Backgrounds
 
 ## Contents
 
-- [Aberrant Heir](#aberrant-heir)
-- [Acolyte](#acolyte)
-- [Archaeologist](#archaeologist)
-- [Artisan](#artisan)
-- [Changeling Traveler](#changeling-traveler)
-- [Charlatan](#charlatan)
-- [Chondathan Freebooter](#chondathan-freebooter)
-- [Criminal](#criminal)
-- [Dead Magic Dweller](#dead-magic-dweller)
-- [Dhakaani Goblinoids](#dhakaani-goblinoids)
-- [Dragon Cultist](#dragon-cultist)
-- [Dragonmarked Bravo](#dragonmarked-bravo)
-- [Dragonmarked Foundling](#dragonmarked-foundling)
-- [Dragonmarked Scion](#dragonmarked-scion)
-- [Emerald Enclave Caretaker](#emerald-enclave-caretaker)
-- [Entertainer](#entertainer)
-- [Farmer](#farmer)
-- [Flaming Fist Mercenary](#flaming-fist-mercenary)
-- [Genie Touched](#genie-touched)
-- [Guard](#guard)
-- [Guide](#guide)
-- [Harper](#harper)
-- [Hermit](#hermit)
-- [House Agent](#house-agent)
-- [House Cannith Heir](#house-cannith-heir)
-- [House Deneith Heir](#house-deneith-heir)
-- [House Ghallanda Heir](#house-ghallanda-heir)
-- [House Jorasco Heir](#house-jorasco-heir)
-- [House Kundarak Heir](#house-kundarak-heir)
-- [House Lyrandar Heir](#house-lyrandar-heir)
-- [House Medani Heir](#house-medani-heir)
-- [House Orien Heir](#house-orien-heir)
-- [House Phiarlan Heir](#house-phiarlan-heir)
-- [House Sivis Heir](#house-sivis-heir)
-- [House Tharashk Heir](#house-tharashk-heir)
-- [House Thuranni Heir](#house-thuranni-heir)
-- [House Vadalis Heir](#house-vadalis-heir)
-- [Ice Fisher](#ice-fisher)
-- [Inquisitive](#inquisitive)
-- [Knight of the Gauntlet](#knight-of-the-gauntlet)
-- [Lords’ Alliance Vassal](#lords-alliance-vassal)
-- [Magewright](#magewright)
-- [Malenti](#malenti)
-- [Merchant](#merchant)
-- [Moonwell Pilgrim](#moonwell-pilgrim)
-- [Mulhorandi Tomb Raider](#mulhorandi-tomb-raider)
-- [Mythalkeeper](#mythalkeeper)
-- [Noble](#noble)
-- [Purple Dragon Squire](#purple-dragon-squire)
-- [Rashemi Wanderer](#rashemi-wanderer)
-- [Sage](#sage)
-- [Sailor](#sailor)
-- [Scribe](#scribe)
-- [Shadowmasters Exile](#shadowmasters-exile)
-- [Soldier](#soldier)
-- [Spellfire Initiate](#spellfire-initiate)
-- [Wandslinger](#wandslinger)
-- [Wayfarer](#wayfarer)
-- [Zhentarim Mercenary](#zhentarim-mercenary)
+| | | |
+|---|---|---|
+| [Aberrant Heir](#aberrant-heir) | [Guide](#guide) | [Lords' Alliance Vassal](#lords-alliance-vassal) |
+| [Acolyte](#acolyte) | [Harper](#harper) | [Magewright](#magewright) |
+| [Archaeologist](#archaeologist) | [Hermit](#hermit) | [Malenti](#malenti) |
+| [Artisan](#artisan) | [House Agent](#house-agent) | [Merchant](#merchant) |
+| [Changeling Traveler](#changeling-traveler) | [House Cannith Heir](#house-cannith-heir) | [Moonwell Pilgrim](#moonwell-pilgrim) |
+| [Charlatan](#charlatan) | [House Deneith Heir](#house-deneith-heir) | [Mulhorandi Tomb Raider](#mulhorandi-tomb-raider) |
+| [Chondathan Freebooter](#chondathan-freebooter) | [House Ghallanda Heir](#house-ghallanda-heir) | [Mythalkeeper](#mythalkeeper) |
+| [Criminal](#criminal) | [House Jorasco Heir](#house-jorasco-heir) | [Noble](#noble) |
+| [Dead Magic Dweller](#dead-magic-dweller) | [House Kundarak Heir](#house-kundarak-heir) | [Purple Dragon Squire](#purple-dragon-squire) |
+| [Dhakaani Goblinoids](#dhakaani-goblinoids) | [House Lyrandar Heir](#house-lyrandar-heir) | [Rashemi Wanderer](#rashemi-wanderer) |
+| [Dragon Cultist](#dragon-cultist) | [House Medani Heir](#house-medani-heir) | [Sage](#sage) |
+| [Dragonmarked Bravo](#dragonmarked-bravo) | [House Orien Heir](#house-orien-heir) | [Sailor](#sailor) |
+| [Dragonmarked Foundling](#dragonmarked-foundling) | [House Phiarlan Heir](#house-phiarlan-heir) | [Scribe](#scribe) |
+| [Dragonmarked Scion](#dragonmarked-scion) | [House Sivis Heir](#house-sivis-heir) | [Shadowmasters Exile](#shadowmasters-exile) |
+| [Emerald Enclave Caretaker](#emerald-enclave-caretaker) | [House Tharashk Heir](#house-tharashk-heir) | [Soldier](#soldier) |
+| [Entertainer](#entertainer) | [House Thuranni Heir](#house-thuranni-heir) | [Spellfire Initiate](#spellfire-initiate) |
+| [Farmer](#farmer) | [House Vadalis Heir](#house-vadalis-heir) | [Wandslinger](#wandslinger) |
+| [Flaming Fist Mercenary](#flaming-fist-mercenary) | [Ice Fisher](#ice-fisher) | [Wayfarer](#wayfarer) |
+| [Genie Touched](#genie-touched) | [Inquisitive](#inquisitive) | [Zhentarim Mercenary](#zhentarim-mercenary) |
+| [Guard](#guard) | [Knight of the Gauntlet](#knight-of-the-gauntlet) | |
 
 ---
 

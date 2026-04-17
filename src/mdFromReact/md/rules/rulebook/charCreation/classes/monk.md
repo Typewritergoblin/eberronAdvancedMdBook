@@ -189,7 +189,7 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 
 You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -237,7 +237,7 @@ Your mastery of life energy opens the door to the ultimate mercy. As a Magic act
 
 Once you use this feature, you can’t use it again until you finish a Long Rest.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -275,7 +275,7 @@ As a Magic action while entirely within Dim Light or Darkness, you can expend 3 
 
 ***Shadow Flurry.*** You can use your Flurry of Blows without expending any Focus Points.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -317,7 +317,7 @@ While your Elemental Attunement is active, you also gain the following benefits.
 
 ***Empowered Strikes.*** Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an Unarmed Strike. The extra damage is the same type dealt by that strike.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -353,7 +353,7 @@ You gain the ability to set up lethal vibrations in someone’s body. When you h
 
 You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required).
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

@@ -532,7 +532,7 @@ This section presents the Warlock spell list. The spells are organized by spell 
 | True Polymorph | Transmutation | C |
 | Weird | Illusion | C |
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -587,7 +587,7 @@ In addition, immediately after a creature you can see hits you with an attack ro
 
 Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast Misty Step as part of the same action and without expending a spell slot.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -630,7 +630,7 @@ When you or an ally within 60 feet of you is about to make a Death Saving Throw,
 
 Once you use this feature, you can’t use it again until you finish a Long Rest.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -673,7 +673,7 @@ Once per turn when you hit a creature with an attack roll, you can try to instan
 
 Once you use this feature, you can’t use it again until you finish a Long Rest unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -726,7 +726,7 @@ When you cast Summon Aberration, you can modify it so that it doesn’t require 
 
 In addition, the first time each turn the Aberration hits a creature under the effect of your Hex, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

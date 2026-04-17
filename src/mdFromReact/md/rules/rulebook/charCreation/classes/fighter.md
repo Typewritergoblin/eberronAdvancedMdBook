@@ -129,7 +129,7 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 
 You can attack four times instead of once whenever you take the Attack action on your turn.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -263,7 +263,7 @@ When you make an Intelligence (History or Investigation) check or a Wisdom (Insi
 
 When you hit a creature with an attack roll using a weapon or an Unarmed Strike, you can expend one Superiority Die and add the die to the attack’s damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the Prone condition.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -303,7 +303,7 @@ You attain the pinnacle of resilience in battle, giving you these benefits.
 
 ***Heroic Rally.*** At the start of each of your turns, you regain Hit Points equal to 5 plus your Constitution modifier if you are Bloodied and have at least 1 Hit Point.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -380,7 +380,7 @@ When you use your Action Surge, you can teleport up to 30 feet to an unoccupied 
 
 When you take the Attack action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Wizard spells that has a casting time of an action.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -441,7 +441,7 @@ You always have the Telekinesis spell prepared. With this feature, you can cast 
 
 Once you cast the spell with this feature, you can’t do so in this way again until you finish a Long Rest unless you expend a Psionic Energy Die (no action required) to restore your use of it.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

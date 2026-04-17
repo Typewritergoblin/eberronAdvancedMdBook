@@ -342,7 +342,7 @@ This section presents the Bard spell list. The spells are organized by spell lev
 | Prismatic Wall | Abjuration | — |
 | True Polymorph | Transmutation | C |
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -382,7 +382,7 @@ When you are subjected to an effect that allows you to make a Dexterity saving t
 
 You can’t use this feature if you have the Incapacitated condition.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -420,7 +420,7 @@ As a Bonus Action, you can assume a magically majestic presence for 1 minute or 
 
 Once you assume this majestic presence, you can’t do so again until you finish a Short or Long Rest.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -448,7 +448,7 @@ You always have the chosen spells prepared, and whenever you gain a Bard level, 
 
 When you make an ability check or attack roll and fail, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the d20, potentially turning a failure into a success. On a failure, the Bardic Inspiration isn’t expended.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -482,7 +482,7 @@ In addition, you can cast one of your cantrips that has a casting time of an act
 
 After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a Bonus Action.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

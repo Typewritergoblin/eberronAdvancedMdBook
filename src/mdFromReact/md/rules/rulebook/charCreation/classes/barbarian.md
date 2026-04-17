@@ -175,7 +175,7 @@ You gain an Epic Boon feat (see chapter 5) or another feat of your choice for wh
 
 You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -205,7 +205,7 @@ As a Bonus Action, you can strike terror into others with your menacing presence
 
 Once you use this feature, you can’t use it again until you finish a Long Rest unless you expend a use of your Rage (no action required) to restore your use of it.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -253,7 +253,7 @@ Whenever you activate your Rage, you gain one of the following options of your c
 
 ***Ram.*** While your Rage is active, you can cause a Large or smaller creature to have the Prone condition when you hit it with a melee attack.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -285,7 +285,7 @@ When you activate your Rage and as a Bonus Action while your Rage is active, you
 
 In addition, once per Rage, you can increase the range of that teleport to 150 feet. When you do so, you can also bring up to six willing creatures who are within 10 feet of you. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -329,7 +329,7 @@ While in this form, you gain the benefits below.
 
 ***Revivification.*** When a creature within 30 feet of you would drop to 0 Hit Points, you can take a Reaction to expend a use of your Rage to instead change the target’s Hit Points to a number equal to your Barbarian level.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

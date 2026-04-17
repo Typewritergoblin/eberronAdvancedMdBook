@@ -435,7 +435,7 @@ This section presents the Wizard spell list. The spells are organized by spell l
 | Weird | Illusion | C |
 | Wish | Conjuration | — |
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -475,7 +475,7 @@ When you cast either spell with a spell slot, that slot isn’t expended if the 
 
 You have Advantage on saving throws against spells, and you have Resistance to the damage of spells.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -515,7 +515,7 @@ You can increase your powers of perception. As a Bonus Action, choose one of the
 
 The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. Roll three d20s for your Portent feature rather than two.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -551,7 +551,7 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 
 Each time you use this feature again before finishing a Long Rest, the Necrotic damage per spell level increases by 1d12.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -587,7 +587,7 @@ Once you use this feature, you can’t use it again until you finish a Short or 
 
 You have learned to weave shadow magic into your illusions to give them a semi-reality. When you cast an Illusion spell with a spell slot, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a Bonus Action while the spell is ongoing. The object remains real for 1 minute, during which it can’t deal damage or give any conditions. For example, you can create an illusion of a bridge over a chasm and then make it real and cross it.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

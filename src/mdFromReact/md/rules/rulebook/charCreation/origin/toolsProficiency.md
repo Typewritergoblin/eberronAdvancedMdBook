@@ -1,4 +1,13 @@
 ## Tools
+
+- [Tool Proficiency](#tool-proficiency) — How proficiency with a tool affects ability checks and stacks with skill proficiency.
+  - [Artisan's Tools](#artisans-tools) — Trade-focused tools for crafting items and appraising goods.
+  - [Kits and Other Tools](#kits-and-other-tools) — Specialized tools supporting adventuring, disguise, forgery, navigation, and more.
+  - [Musical Instruments and Gaming Sets](#musical-instruments-and-gaming-sets) — Instruments and games, each requiring separate proficiency per variant.
+- [Vehicle Proficiency](#vehicle-proficiency) — Broad training in land, water, or air vehicles.
+
+---
+
 Tools fall into several main categories. Artisan's tools are used to craft a wide range of things. Specialist's Tools are used to perform a specific function or craft a specific item. Musical Instruments are used to perform.
 
 ### Tool Proficiency

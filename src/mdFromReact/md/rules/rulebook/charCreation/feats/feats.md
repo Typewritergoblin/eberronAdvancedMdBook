@@ -4,6 +4,12 @@
 
 Feats represent specialized training, innate abilities, or extraordinary talents. They are divided into categories based on when and how they are obtained. Select from the lists below and follow the link to the full feat description.
 
+- [Origin Feats](#origin-feats) — Available at character creation, granted by your Background or certain class features.
+- [Dragonmarked Feats](#dragonmarked-feats) — Available as a replacement for an Origin Feat to characters bearing a dragonmark.
+- [General Feats](#general-feats) — Available at Level 4+ as a replacement for an Ability Score Improvement.
+- [Fighting Style Feats](#fighting-style-feats) — Require a class feature that grants a Fighting Style; replace a standard Fighting Style choice.
+- [Epic Boon Feats](#epic-boon-feats) — Available at Level 19+ as a replacement for an Ability Score Improvement, representing the pinnacle of mortal achievement.
+
 ---
 
 ## Origin Feats

@@ -422,7 +422,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 | Time Stop | Transmutation | — |
 | Wish | Conjuration | — |
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -481,7 +481,7 @@ You can unleash a space-warping anomaly. As a Magic action, you teleport to an u
 
 Once you use this feature, you can’t do so again until you finish a Long Rest unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -545,7 +545,7 @@ You momentarily summon spirits of order to expunge disorder around you. As a Mag
 
 ***Dispel.*** Every spell of level 6 and lower ends on creatures and objects of your choice in the Cube.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -592,7 +592,7 @@ You can cast Summon Dragon without a Material component. You can also cast it on
 
 Whenever you start casting the spell, you can modify it so that it doesn’t require Concentration. If you do so, the spell’s duration becomes 1 minute for that casting.
 
-**Source:** Player's Handbook 2024
+
 
 ---
 
@@ -658,7 +658,7 @@ Once you use this feature, you can’t do so again until you finish a Long Rest.
 | 93–96 | You and all creatures within 30 feet of you have Vulnerability to Piercing damage for the next minute. |
 | 97–00 | Roll 1d6: on a **1**, you regain 2d10 Hit Points; on a **2**, one ally of your choice within 300 feet of you regains 2d10 Hit Points; on a **3**, you regain your lowest-level expended spell slot; on a **4**, one ally of your choice within 300 feet of you regains their lowest-level expended spell slot; on a **5**, you regain all your expended Sorcery Points; on a **6**, all the effects of row 17–20 affect you simultaneously. |
 
-**Source:** Player's Handbook 2024
+
 
 ---
 

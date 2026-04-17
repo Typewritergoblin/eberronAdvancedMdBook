@@ -1,6 +1,12 @@
 
 ## Languages
 
+- [Common Languages of Khorvaire](#i-common-languages-of-khorvaire) — Widely spoken trade and regional languages across the continent.
+- [Exotic and Regional Languages](#ii-exotic-and-regional-languages) — Languages tied to specific cultures, distant continents, or isolated communities.
+- [Planar and Ancient Languages](#iii-planar-and-ancient-languages) — Languages originating from the planes or the dawn of time.
+- [Unique and Secret Languages](#iv-unique-and-secret-languages) — Languages specific to certain organizations or subcultures.
+- [Obscure Planar Dialects](#v-obscure-planar-dialects) — Ancient plane-specific dialects largely subsumed by broader languages in modern times.
+
 ### I. Common Languages of Khorvaire
 These languages are widely spoken across the continent of Khorvaire, facilitating trade and diplomacy.
 

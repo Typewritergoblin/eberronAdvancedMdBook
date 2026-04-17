@@ -2,6 +2,73 @@
 
 There are numerous cultures that your character might hail from. Choose a nation and a faction from within that nation, and then choose skills, languages, and feats appropriate to your culture.
 
+---
+
+- [Khorvaire](#khorvaire) — The central continent, home to the Five Nations and diverse cultures shaped by the Last War.
+  - [The Five Nations](#the-five-nations) — Core human-dominated nations once united under Galifar, now distinct rivals.
+    - [Aundair](#aundair)
+    - [Breland](#breland)
+    - [Cyre (The Mournland)](#cyre-the-mournland)
+    - [Karrnath](#karrnath)
+    - [Thrane](#thrane)
+  - [Darguun](#darguun) — Harsh goblinoid nation born from mercenary betrayal, held together by military force.
+    - [The Ghaal'dar](#the-ghaaldar)
+    - [The Marguul](#the-marguul)
+    - [The Heirs of Dhakaan (Kech Dhakaan)](#the-heirs-of-dhakaan-kech-dhakaan)
+  - [Droaam](#droaam) — Monstrous frontier governed by the Daughters of Sora Kell, a haven for diverse species.
+  - [The Eldeen Reaches](#the-eldeen-reaches) — Vast forests and plains defined by fierce independence and primal magic.
+    - [Agricultural Farmers](#agricultural-farmers)
+    - [Woodland Inhabitants](#woodland-inhabitants)
+  - [The Lhazaar Principalities](#the-lhazaar-principalities) — Treacherous confederacy of merchant sailors, privateers, and pirate lords.
+    - [Seafaring Princes](#seafaring-princes)
+  - [The Mror Holds](#the-mror-holds) — Dwarven feudal confederation known for mining, banking, and exploring the Realm Below.
+  - [Q'barra](#qbarra) — Perilous frontier divided between desperate human colonists and ancient reptilian empires.
+    - [New Galifar and Hope](#new-galifar-and-hope)
+    - [Indigenous Cultures](#indigenous-cultures)
+  - [The Shadow Marches](#the-shadow-marches) — Desolate swampland of integrated orc and human clans, home to House Tharashk.
+    - [Marcher Clans](#marcher-clans)
+    - [Insular Tribes](#insular-tribes)
+  - [The Talenta Plains](#the-talenta-plains) — Vast grasslands of nomadic halfling tribes living by ancient tradition on dinosaur-back.
+  - [Valenar](#valenar) — Militaristic elf nation on former Cyran soil, ruled by glory-seeking warrior warclans.
+    - [The Tairnadal Elves](#the-tairnadal-elves)
+    - [Human Peasantry](#human-peasantry)
+  - [Zilargo](#zilargo) — Idyllic gnome nation of knowledge and elemental binding, secretly policed by the Trust.
+  - [The Demon Wastes](#the-demon-wastes) — Barren wasteland twisted by entombed fiends, home to savage tribes and zealous guardians.
+    - [The Carrion Tribes](#the-carrion-tribes)
+    - [The Ghaash'kala](#the-ghaashkala)
+- [Sarlona](#sarlona) — Distant eastern continent dominated by the Inspired empire of Riedra.
+  - [Riedra](#riedra) — Xenophobic empire ruled by quori-possessed Inspired, keeping its populace docile and isolated.
+  - [Adar](#adar) — Mountainous refuge of monks and kalashtar practicing the Path of Light against Riedran sieges.
+  - [Syrkarn](#syrkarn) — Free agrarian steppes of human and eneko clans living in nomadic harmony.
+  - [The Tashana Tundra](#the-tashana-tundra) — Frozen northern reaches home to hardy shifter nations and isolated dwarven clans.
+    - [Nomadic Shifters](#nomadic-shifters)
+    - [Dwarves and Maenads](#dwarves-and-maenads)
+- [Aerenal](#aerenal) — Ancient elven island continent defined by reverence for the dead and the Undying Court.
+  - [The Aereni](#the-aereni) — Dominant elven culture with advanced death magic and deeply traditional isolationism.
+  - [The Tairnadal](#the-tairnadal) — Martial elves who emulate ancestral deeds in battle to honor and anchor their forebears.
+- [Xen'drik](#xendrik) — Shattered southern continent of colossal ruins, mysterious magic, and ancient curses.
+  - [The Giants](#the-giants) — Tribes of giant barbarians reduced to savagery, scavenging ruins of their lost empire.
+  - [The Drow](#the-drow) — Dark elves of three distinct sects, each shaped by their relationship to their giant creators.
+    - [The Vulkoori](#the-vulkoori)
+    - [The Sulatar](#the-sulatar)
+    - [The Umbragen](#the-umbragen)
+  - [Stormreach](#stormreach) — Lawless cosmopolitan port city serving as a gateway for Khorvairian expeditions.
+- [Argonnessen](#argonnessen) — Dragon-dominated continent, center of the Draconic Prophecy.
+  - [The Dragons](#the-dragons) — Ancient, powerful dragon civilization divided into territories interpreting the Prophecy.
+  - [The Seren Barbarians](#the-seren-barbarians) — Zealous human and dragonborn tribes guarding Argonnessen's shores from outsiders.
+- [The Frostfell & Everice](#the-frostfell--everice) — Frozen polar regions of primitive survival cultures and ancient dwarven strongholds.
+  - [The Ice Folk and Barbarians](#the-ice-folk-and-barbarians) — Nomadic neanderthals and barbarians eking out survival on the deadly ice caps.
+  - [Glacier Dwarves (Tol dun Nordorthak)](#glacier-dwarves-tol-dun-nordorthak) — Isolated ancient dwarves inhabiting frozen keeps, believed to be the ancestral homeland of all Khorvairian dwarves.
+- [Khyber (The Underdark)](#khyber-the-underdark) — Subterranean depths serving as prison to daelkyr lords of madness and hidden civilizations.
+  - [The Daelkyr and Aberrations](#the-daelkyr-and-aberrations) — Alien lords from Xoriat and their twisted creations ruling maddening subterranean kingdoms.
+  - [Subterranean Civilizations](#subterranean-civilizations) — Ancient, isolated societies deep beneath the earth, completely cut off from the sun.
+- [The Thunder Sea](#the-thunder-sea) — The ocean between Khorvaire and Xen'drik, home to competing underwater civilizations.
+  - [The Eternal Dominion](#the-eternal-dominion) — Militaristic sahuagin civilization dominating the ocean floor, worshipers of the Devourer.
+  - [Karakala (The Kalamer)](#karakala-the-kalamer) — Nomadic merfolk tribes using ancient druidic rituals to stabilize manifest zones.
+  - [The Valraean Protectorate](#the-valraean-protectorate) — Sea elf buffer state enforcing Aereni supremacy against the expansion of the Eternal Dominion.
+
+---
+
 ### Khorvaire
 #### The Five Nations
 The core human-dominated nations were once united under the great Kingdom of Galifar. Following the century-long Last War, each modern nation emerged with distinct cultural hallmarks and simmering rivalries.
