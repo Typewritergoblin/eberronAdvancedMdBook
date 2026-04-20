@@ -33,7 +33,7 @@ When resuming in a new chat session: read PLAN.md first, then this file. Note th
 | B3 | Clean PHB spells rules chapter | ⬜ | — | Full Chapter 7 spellcasting rules (slots, components, etc.) — not individual spell descriptions |
 | B4 | Clean PHB creature-stat-blocks | ⬜ | — | |
 | B5 | Clean Forge appendix magic-items | ⬜ | — | |
-| B6 | Clean FR chapter-5 magic | ⬜ | — | |
+| B6 | Clean FR chapter-5 magic | ✅ | — | Complete. 19 spells + Circle Magic rules + The Weave lore. All DDB links stripped, images/artist credits removed. Script: direct Write. |
 | B7 | Clean FR chapter-8 magic-items | ⬜ | — | |
 | B8 | Clean FR chapter-4 Aurora catalog | ⬜ | — | |
 | B9 | Clean PHB equipment | ✅ | — | Complete. 1357 lines. Sections: Coins, Weapons, Armor, Tools, Adventuring Gear, Mounts & Vehicles, Services, Magic Item rules, Crafting rules. Script: tools/clean_phb24_equipment.py |
@@ -95,3 +95,4 @@ When resuming in a new chat session: read PLAN.md first, then this file. Note th
 | 2026-04-11 | B9 task defined + 2.E1–2.E4 extraction tasks defined | Added B9 (Clean PHB equipment) and extraction tasks 2.E1 (weapons), 2.E2 (armor), 2.E3 (tools), 2.E4 (adventuring gear + services + crafting) to PROGRESS.md. Source: PHB24 equipment chapter (1491 lines). |
 | 2026-04-10 | B9 + 2.E1–2.E4: Clean and extract equipment | B9 complete (1357 lines, tools/clean_phb24_equipment.py). All four extraction tasks complete: weapons.md (158 lines), armor.md (65 lines), tools.md (221 lines), equipment.md (772 lines). Script: tools/extract_equipment.py |
 | 2026-04-20 | 2.S0: Extract Eberron spells to JSON | Created eberron2024-spells-condensed.json and eberron2024-spells-full.json in sourcebooks/Spells/. 11 spells from 3 Eberron sources. Full JSON matches Foundry VTT dnd5e system structure. Sources: Forge of the Artificer (Homunculus Servant), Frontiers of Eberron (Gray Gaze, Orien Step, Earthbind, Earth Tremor, Enemies Abound, Mold Earth), Exploring Eberron (Aundair's Silent Sanctum, Concussive Burst, Force Blast, Magecraft). |
+| 2026-04-19 | B6: Clean FR chapter-5 magic | Output written to sourcebooks/Cleaned/FR-chapter-5-magic.md. The Weave lore (5 subsections), Circle Magic rules (6 casting options + all sub-rules), 19 spells (Alustriel's Mooncloak through Wardaway). All DDB hyperlinks converted to plain text, images and artist credits stripped. |
