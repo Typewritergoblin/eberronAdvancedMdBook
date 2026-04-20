@@ -144,6 +144,23 @@ One file per class. Each file includes: base class features + progression table 
 
 ### Phase 2B — Extract (Spells Output)
 
+#### 2B-0 — Eberron Spells JSON (completed)
+- **Read:** `Cleaned/Forge-chapter-1-artificer.md`, `Cleaned/Frontiers-character-options.md`, `CleanedFiles/Exploring_Eberron24.md`
+- **Write:** `sourcebooks/Spells/eberron2024-spells-condensed.json`, `sourcebooks/Spells/eberron2024-spells-full.json`
+- Format: matches structure of `dnd2024-spells-condensed.json` / `dnd2024-spells-full.json` (Foundry VTT dnd5e system)
+- **11 spells included (alphabetical):**
+  - Aundair's Silent Sanctum (Illusion Cantrip) — Exploring Eberron
+  - Concussive Burst (Level 1 Evocation) — Exploring Eberron
+  - Earth Tremor (Level 1 Evocation) — Frontiers of Eberron (originally XGE)
+  - Earthbind (Level 2 Transmutation) — Frontiers of Eberron (originally XGE)
+  - Enemies Abound (Level 3 Enchantment) — Frontiers of Eberron (originally XGE)
+  - Force Blast (Evocation Cantrip) — Exploring Eberron
+  - Gray Gaze (Transmutation Cantrip) — Frontiers of Eberron
+  - Homunculus Servant (Level 2 Conjuration, Ritual) — Forge of the Artificer
+  - Magecraft (Divination Cantrip) — Exploring Eberron / Frontiers of Eberron
+  - Mold Earth (Transmutation Cantrip) — Frontiers of Eberron (originally XGE)
+  - Orien Step (Transmutation Cantrip) — Frontiers of Eberron
+
 #### 2B-1 — Spells (new/non-PHB spells only, 1–2 prompts)
 - **Read:** `FR-chapter-5-magic.md`, `Forge-chapter-2-character-options.md` (already cleaned in Phase 1), `PHB24-spell-descriptions-1.md`, `PHB24-spell-descriptions-2.md` (cross-reference only — do not re-extract PHB spells)
 - **Write:** `Extracted2/spells.md`

@@ -778,7 +778,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 |**Warlock Level**|**Prepared Spells**|
 |---|---|
-|3<br>5<br>7|_Absorb Elements, EarthbindXGE, Earth_<br>_TremorXGE, Spike Growth_<br>_Magic Circle, Slow_<br>_Stone Shape, Stoneskin_|
+|3<br>5<br>7|_Absorb Elements, Earthbind, Earth_<br>_Tremor, Spike Growth_<br>_Magic Circle, Slow_<br>_Stone Shape, Stoneskin_|
 |9|_Bigby's Hand, Wall of Stone_|
 
 #### Level 6: Form of Stone
